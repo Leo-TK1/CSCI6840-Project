@@ -1,0 +1,1805 @@
+,Product_Category,P(return) Logistic Regression,P(return) Random Forest,P(return) Neural Network (MLP),Actual Return_Flag
+14512,Electronics,0.562,0.468,0.0,0
+8058,Furniture,0.663,0.46,0.001,1
+2267,Electronics,0.516,0.479,0.711,0
+15910,Electronics,0.548,0.486,0.0,0
+18013,Furniture,0.398,0.397,0.0,0
+4044,Furniture,0.395,0.359,0.012,1
+6730,Electronics,0.459,0.5,0.017,0
+11457,Electronics,0.54,0.442,0.0,0
+10227,Furniture,0.394,0.352,0.0,0
+6518,Office Supplies,0.541,0.475,0.0,0
+11095,Office Supplies,0.438,0.482,0.467,0
+17547,Electronics,0.597,0.498,0.542,0
+719,Furniture,0.459,0.421,0.04,0
+4313,Electronics,0.607,0.537,0.0,0
+5467,Appliances,0.536,0.422,0.0,0
+7138,Appliances,0.583,0.468,0.0,0
+4325,Appliances,0.592,0.548,0.0,0
+1414,Office Supplies,0.489,0.473,0.083,0
+16893,Office Supplies,0.402,0.38,0.0,0
+4003,Electronics,0.478,0.48,0.0,0
+447,Electronics,0.442,0.455,0.0,0
+1232,Appliances,0.598,0.453,0.043,0
+1034,Electronics,0.587,0.484,0.0,1
+6739,Office Supplies,0.467,0.434,0.0,0
+12342,Electronics,0.506,0.496,0.0,0
+12572,Appliances,0.299,0.397,0.0,1
+16873,Furniture,0.419,0.404,0.0,0
+7746,Office Supplies,0.585,0.415,0.0,0
+10261,Electronics,0.508,0.502,0.001,0
+14083,Office Supplies,0.501,0.497,0.996,0
+14992,Appliances,0.538,0.495,0.107,0
+6686,Electronics,0.562,0.514,0.007,0
+12401,Furniture,0.493,0.507,0.038,0
+642,Furniture,0.378,0.397,0.0,0
+11628,Appliances,0.464,0.493,1.0,0
+2778,Electronics,0.543,0.495,0.0,0
+15749,Electronics,0.532,0.502,0.0,0
+13782,Appliances,0.522,0.441,0.137,0
+5293,Electronics,0.444,0.414,0.596,0
+6218,Office Supplies,0.43,0.365,0.002,0
+17270,Office Supplies,0.477,0.47,0.0,0
+16684,Appliances,0.528,0.451,0.0,0
+12246,Electronics,0.642,0.511,0.0,0
+7374,Office Supplies,0.467,0.392,0.0,0
+3501,Office Supplies,0.487,0.271,0.0,0
+461,Office Supplies,0.528,0.469,0.0,0
+17094,Electronics,0.558,0.458,0.0,0
+12720,Appliances,0.465,0.457,0.727,0
+4310,Furniture,0.489,0.453,0.0,0
+16235,Electronics,0.546,0.5,0.171,0
+12676,Electronics,0.435,0.505,0.0,1
+14395,Electronics,0.484,0.49,0.0,0
+4996,Electronics,0.474,0.467,0.0,0
+5372,Electronics,0.563,0.514,0.0,0
+16040,Electronics,0.447,0.451,0.0,0
+10462,Electronics,0.549,0.502,0.009,0
+10005,Appliances,0.574,0.487,0.0,0
+12942,Office Supplies,0.402,0.403,0.001,0
+11257,Office Supplies,0.59,0.385,0.008,0
+13940,Electronics,0.45,0.445,0.0,0
+3626,Electronics,0.549,0.455,0.0,0
+15893,Electronics,0.597,0.47,0.0,0
+8769,Electronics,0.537,0.47,0.0,0
+11014,Furniture,0.46,0.463,0.0,0
+7062,Office Supplies,0.43,0.459,0.018,1
+16531,Appliances,0.399,0.391,0.003,0
+15666,Office Supplies,0.552,0.479,0.0,0
+6412,Office Supplies,0.5,0.449,0.0,0
+13988,Office Supplies,0.473,0.461,0.006,1
+17579,Electronics,0.528,0.483,0.0,0
+325,Appliances,0.509,0.462,0.0,1
+6087,Electronics,0.438,0.449,0.0,0
+15853,Electronics,0.524,0.464,0.0,0
+9452,Electronics,0.548,0.475,0.009,0
+854,Electronics,0.474,0.458,0.012,0
+7567,Office Supplies,0.434,0.385,0.0,0
+17687,Office Supplies,0.442,0.43,0.979,0
+3719,Electronics,0.442,0.391,0.99,0
+3636,Office Supplies,0.413,0.367,0.0,0
+4335,Furniture,0.525,0.486,0.99,0
+2259,Furniture,0.545,0.448,0.993,1
+4121,Furniture,0.604,0.506,0.005,0
+10815,Electronics,0.535,0.482,0.952,0
+7629,Electronics,0.404,0.443,0.0,0
+3739,Electronics,0.501,0.472,0.0,0
+1552,Electronics,0.592,0.501,0.0,0
+5567,Appliances,0.41,0.506,0.0,0
+11315,Office Supplies,0.554,0.461,0.003,0
+8944,Appliances,0.549,0.453,0.0,0
+14018,Electronics,0.586,0.464,0.096,0
+10192,Office Supplies,0.536,0.41,0.0,0
+16799,Electronics,0.536,0.487,0.0,0
+7805,Electronics,0.547,0.492,0.12,0
+15115,Electronics,0.386,0.347,0.703,0
+16579,Electronics,0.499,0.517,0.976,0
+8066,Electronics,0.473,0.473,0.673,1
+2225,Office Supplies,0.483,0.47,0.333,0
+2660,Electronics,0.551,0.502,0.0,0
+8228,Electronics,0.498,0.506,0.01,0
+12449,Electronics,0.447,0.507,0.099,0
+6679,Furniture,0.47,0.364,0.0,0
+8106,Electronics,0.33,0.382,0.0,0
+10157,Furniture,0.376,0.372,0.004,1
+10390,Electronics,0.552,0.493,0.0,0
+15485,Office Supplies,0.434,0.297,0.0,1
+3054,Office Supplies,0.496,0.476,0.0,0
+13489,Electronics,0.473,0.451,0.0,0
+8620,Furniture,0.444,0.429,0.016,0
+7109,Electronics,0.42,0.452,0.373,0
+7323,Electronics,0.516,0.534,0.566,0
+5026,Electronics,0.504,0.486,0.03,0
+13824,Electronics,0.389,0.274,0.0,0
+4724,Appliances,0.517,0.488,0.146,0
+6472,Office Supplies,0.519,0.481,0.0,0
+5,Furniture,0.471,0.445,0.031,0
+14268,Appliances,0.524,0.447,0.0,0
+12728,Electronics,0.494,0.393,0.661,0
+333,Office Supplies,0.441,0.431,0.0,0
+13310,Office Supplies,0.458,0.428,0.0,1
+3877,Electronics,0.501,0.519,0.985,0
+15529,Electronics,0.465,0.501,0.0,1
+6433,Office Supplies,0.43,0.481,0.0,0
+18007,Electronics,0.61,0.503,0.0,0
+7393,Electronics,0.538,0.473,0.0,0
+1398,Office Supplies,0.504,0.383,0.0,0
+11586,Electronics,0.52,0.52,0.994,0
+401,Appliances,0.568,0.541,0.241,0
+3773,Electronics,0.517,0.468,0.0,0
+17413,Electronics,0.507,0.338,0.022,0
+9811,Electronics,0.385,0.419,0.0,0
+15799,Office Supplies,0.529,0.457,0.0,0
+11301,Electronics,0.543,0.476,0.238,0
+7933,Office Supplies,0.568,0.429,0.0,0
+13053,Office Supplies,0.433,0.467,0.0,0
+7675,Electronics,0.505,0.454,0.297,0
+9793,Electronics,0.509,0.391,0.0,0
+9838,Office Supplies,0.524,0.392,0.0,1
+16139,Electronics,0.557,0.516,0.006,0
+12699,Appliances,0.578,0.461,0.137,1
+9861,Electronics,0.517,0.494,0.0,0
+3562,Electronics,0.368,0.3,0.0,1
+2630,Electronics,0.488,0.486,0.002,0
+6902,Office Supplies,0.474,0.457,0.004,1
+15725,Office Supplies,0.506,0.524,0.835,0
+2547,Electronics,0.418,0.446,0.0,1
+1897,Appliances,0.523,0.36,0.006,0
+10330,Electronics,0.446,0.484,0.0,0
+3456,Electronics,0.579,0.447,0.0,1
+13492,Electronics,0.526,0.457,0.112,0
+3855,Electronics,0.562,0.448,0.002,0
+12306,Electronics,0.603,0.454,0.391,0
+375,Office Supplies,0.498,0.45,0.0,0
+2915,Office Supplies,0.491,0.491,0.002,1
+11420,Electronics,0.458,0.491,0.0,0
+3157,Electronics,0.593,0.471,0.0,0
+690,Electronics,0.397,0.409,0.0,0
+11937,Electronics,0.517,0.506,0.0,0
+8414,Electronics,0.536,0.484,0.0,0
+4473,Electronics,0.556,0.486,0.08,0
+7999,Electronics,0.509,0.524,0.965,0
+11611,Office Supplies,0.477,0.391,0.0,0
+12388,Furniture,0.555,0.373,0.001,0
+9824,Electronics,0.457,0.485,0.0,0
+1005,Office Supplies,0.488,0.488,0.0,1
+1175,Office Supplies,0.479,0.501,0.0,0
+5821,Office Supplies,0.519,0.446,0.0,0
+11371,Electronics,0.515,0.373,0.0,0
+2216,Electronics,0.403,0.419,0.0,0
+9197,Electronics,0.473,0.409,0.0,0
+4066,Appliances,0.419,0.444,0.888,0
+15076,Electronics,0.466,0.363,0.055,0
+15105,Furniture,0.455,0.479,0.003,0
+11710,Electronics,0.319,0.371,0.0,0
+13206,Furniture,0.448,0.428,0.0,0
+5459,Electronics,0.609,0.528,0.972,0
+2701,Electronics,0.584,0.501,0.986,0
+3981,Office Supplies,0.469,0.356,0.0,0
+17744,Appliances,0.556,0.465,0.0,1
+11255,Electronics,0.521,0.484,0.992,0
+14285,Furniture,0.511,0.448,0.0,0
+8737,Furniture,0.448,0.497,0.015,0
+3732,Office Supplies,0.419,0.396,0.0,0
+213,Electronics,0.545,0.429,0.0,0
+10442,Electronics,0.398,0.468,0.0,0
+9692,Electronics,0.429,0.286,0.0,0
+10429,Furniture,0.57,0.591,0.0,0
+4689,Electronics,0.487,0.491,0.015,0
+16517,Office Supplies,0.449,0.386,0.0,0
+4146,Electronics,0.504,0.448,0.14,0
+8276,Appliances,0.522,0.469,0.021,0
+12585,Office Supplies,0.567,0.386,0.0,0
+13653,Office Supplies,0.454,0.423,0.001,0
+3839,Electronics,0.347,0.263,0.0,0
+5291,Furniture,0.423,0.428,0.0,0
+9300,Electronics,0.6,0.536,0.912,0
+3305,Electronics,0.547,0.443,0.0,0
+10288,Electronics,0.526,0.496,0.0,0
+12254,Furniture,0.436,0.56,1.0,0
+4949,Office Supplies,0.497,0.421,0.0,0
+1472,Furniture,0.554,0.432,0.001,0
+13600,Electronics,0.543,0.471,0.0,0
+4076,Furniture,0.439,0.485,0.034,0
+13840,Furniture,0.63,0.479,0.0,0
+7079,Furniture,0.494,0.419,0.0,0
+9335,Office Supplies,0.485,0.356,0.0,0
+14932,Furniture,0.449,0.447,0.0,0
+2794,Electronics,0.51,0.474,0.001,0
+11387,Furniture,0.442,0.366,0.0,0
+14500,Office Supplies,0.52,0.464,0.0,0
+10501,Office Supplies,0.479,0.452,0.02,0
+16598,Office Supplies,0.527,0.488,0.008,0
+13946,Electronics,0.516,0.514,0.003,0
+12132,Office Supplies,0.467,0.339,0.0,0
+15540,Electronics,0.408,0.383,0.0,0
+3811,Office Supplies,0.428,0.447,0.041,1
+15367,Electronics,0.421,0.448,0.0,0
+17918,Electronics,0.507,0.453,1.0,0
+2302,Office Supplies,0.587,0.521,0.009,0
+17075,Electronics,0.532,0.447,0.0,0
+14593,Appliances,0.504,0.443,0.0,0
+10887,Office Supplies,0.506,0.5,0.0,0
+13112,Office Supplies,0.469,0.374,0.0,0
+17105,Electronics,0.48,0.477,0.0,0
+8035,Office Supplies,0.519,0.341,0.0,0
+7752,Office Supplies,0.582,0.399,0.0,0
+7486,Furniture,0.605,0.528,0.815,0
+8116,Furniture,0.51,0.508,0.0,0
+13707,Electronics,0.486,0.423,0.0,0
+10597,Office Supplies,0.402,0.41,0.0,0
+923,Furniture,0.407,0.427,0.071,0
+8019,Electronics,0.557,0.493,0.001,0
+12241,Electronics,0.518,0.467,0.012,0
+6831,Furniture,0.487,0.497,0.997,0
+2993,Office Supplies,0.407,0.35,0.0,0
+9469,Appliances,0.485,0.48,0.0,1
+6368,Electronics,0.497,0.466,0.0,0
+16541,Electronics,0.555,0.456,0.186,1
+2922,Office Supplies,0.412,0.409,0.001,1
+3191,Electronics,0.426,0.444,0.028,0
+16539,Office Supplies,0.408,0.406,0.0,0
+7038,Appliances,0.595,0.478,0.005,1
+5686,Electronics,0.557,0.437,0.0,0
+8213,Electronics,0.471,0.506,0.115,0
+7861,Electronics,0.563,0.499,0.076,0
+14813,Electronics,0.496,0.531,0.24,0
+17798,Electronics,0.451,0.479,0.0,0
+17501,Office Supplies,0.528,0.499,0.179,0
+11833,Furniture,0.576,0.512,0.0,0
+1528,Appliances,0.518,0.477,0.002,0
+10234,Office Supplies,0.468,0.429,0.001,0
+13468,Office Supplies,0.489,0.468,0.0,0
+1109,Office Supplies,0.538,0.475,0.378,0
+10174,Office Supplies,0.458,0.388,0.0,0
+13345,Office Supplies,0.456,0.373,0.0,0
+1009,Electronics,0.487,0.494,0.008,0
+10935,Office Supplies,0.391,0.431,0.0,1
+11552,Electronics,0.47,0.403,0.0,0
+3312,Office Supplies,0.486,0.472,0.0,0
+16812,Electronics,0.543,0.503,0.467,1
+12705,Office Supplies,0.38,0.329,0.0,0
+14166,Electronics,0.428,0.447,0.0,0
+17411,Office Supplies,0.382,0.425,0.053,0
+3974,Furniture,0.409,0.321,0.0,1
+13280,Furniture,0.293,0.297,0.001,0
+16314,Electronics,0.588,0.434,0.001,0
+12462,Electronics,0.531,0.426,0.071,0
+18011,Office Supplies,0.419,0.381,0.0,0
+15742,Electronics,0.515,0.48,0.0,0
+3573,Electronics,0.581,0.461,0.176,0
+17745,Office Supplies,0.56,0.462,0.0,0
+15225,Electronics,0.501,0.351,0.0,0
+7892,Electronics,0.437,0.457,0.0,0
+11355,Electronics,0.562,0.452,0.007,0
+1554,Appliances,0.559,0.461,0.0,0
+6003,Office Supplies,0.498,0.422,0.0,0
+2231,Office Supplies,0.558,0.488,0.005,0
+10108,Appliances,0.528,0.423,0.774,0
+14814,Furniture,0.327,0.368,0.109,1
+17082,Furniture,0.386,0.318,0.0,0
+7979,Electronics,0.54,0.438,0.0,0
+245,Electronics,0.482,0.471,0.001,0
+17420,Office Supplies,0.464,0.515,0.001,0
+10256,Electronics,0.516,0.419,0.0,0
+2184,Electronics,0.552,0.527,0.026,0
+17788,Electronics,0.584,0.467,0.25,0
+4704,Office Supplies,0.542,0.516,0.0,0
+13992,Furniture,0.466,0.485,0.0,0
+593,Electronics,0.469,0.45,0.03,0
+9339,Furniture,0.423,0.452,0.0,0
+10649,Office Supplies,0.506,0.465,0.0,0
+14788,Electronics,0.447,0.466,0.0,0
+10468,Furniture,0.561,0.403,0.0,1
+5153,Office Supplies,0.445,0.412,0.087,0
+16862,Electronics,0.477,0.461,0.285,0
+3179,Electronics,0.482,0.474,0.0,0
+10645,Electronics,0.507,0.44,0.0,0
+8677,Office Supplies,0.537,0.54,0.001,0
+14261,Electronics,0.514,0.483,0.001,0
+14848,Appliances,0.502,0.513,0.991,0
+15744,Furniture,0.422,0.375,0.0,1
+8600,Electronics,0.454,0.478,0.002,0
+11758,Office Supplies,0.427,0.491,0.009,0
+17598,Appliances,0.519,0.483,0.0,0
+17969,Appliances,0.435,0.454,0.0,0
+13019,Office Supplies,0.36,0.37,0.0,0
+11827,Furniture,0.404,0.436,0.0,0
+2782,Furniture,0.6,0.462,0.0,0
+5338,Electronics,0.511,0.437,0.0,0
+5191,Office Supplies,0.566,0.5,0.0,0
+16418,Electronics,0.543,0.536,0.001,0
+7069,Electronics,0.499,0.577,0.987,1
+10454,Electronics,0.481,0.353,0.0,0
+4189,Electronics,0.579,0.479,0.0,0
+1195,Furniture,0.577,0.505,0.002,0
+6110,Appliances,0.471,0.47,0.002,0
+13851,Electronics,0.626,0.471,0.0,0
+13155,Electronics,0.468,0.368,0.0,1
+5784,Electronics,0.544,0.509,0.045,0
+637,Electronics,0.562,0.49,0.0,0
+612,Electronics,0.464,0.46,0.0,0
+2474,Office Supplies,0.42,0.372,0.0,0
+11061,Office Supplies,0.482,0.485,0.0,0
+12877,Electronics,0.456,0.459,0.001,0
+11263,Electronics,0.494,0.483,0.0,0
+16810,Electronics,0.393,0.488,1.0,0
+10588,Electronics,0.597,0.525,0.0,1
+2300,Furniture,0.567,0.384,0.054,0
+5208,Appliances,0.471,0.441,0.0,0
+712,Office Supplies,0.529,0.433,0.0,0
+11547,Electronics,0.487,0.392,0.0,0
+1462,Appliances,0.654,0.454,0.144,0
+8230,Office Supplies,0.499,0.419,0.99,1
+3927,Electronics,0.503,0.521,0.002,0
+8879,Electronics,0.533,0.474,0.267,0
+6015,Furniture,0.546,0.469,0.0,0
+1574,Electronics,0.489,0.425,0.362,0
+11868,Electronics,0.53,0.475,0.071,0
+11901,Office Supplies,0.498,0.445,0.0,0
+9977,Appliances,0.408,0.326,0.0,1
+2055,Office Supplies,0.503,0.51,0.064,0
+14439,Electronics,0.577,0.455,0.0,0
+16197,Furniture,0.587,0.486,0.237,0
+14799,Furniture,0.459,0.375,0.0,0
+4882,Appliances,0.502,0.409,0.7,0
+9454,Electronics,0.441,0.45,0.0,0
+14997,Office Supplies,0.347,0.314,0.0,0
+4961,Electronics,0.632,0.355,0.0,0
+11322,Electronics,0.428,0.428,0.0,0
+135,Electronics,0.505,0.428,0.044,0
+4880,Electronics,0.358,0.389,0.0,0
+2982,Electronics,0.467,0.432,0.0,0
+17617,Electronics,0.398,0.345,0.0,0
+2129,Office Supplies,0.514,0.461,0.0,0
+16856,Electronics,0.502,0.454,0.0,0
+14838,Electronics,0.47,0.445,0.001,0
+12228,Furniture,0.488,0.487,0.361,1
+12436,Furniture,0.278,0.364,0.0,0
+8744,Appliances,0.55,0.435,1.0,0
+6414,Office Supplies,0.458,0.447,0.003,0
+673,Office Supplies,0.463,0.395,0.0,0
+16086,Office Supplies,0.502,0.469,0.985,0
+7779,Electronics,0.476,0.463,0.0,0
+8308,Office Supplies,0.452,0.499,0.0,0
+12131,Furniture,0.413,0.456,0.158,0
+11488,Electronics,0.445,0.445,0.993,0
+6672,Electronics,0.466,0.51,0.911,0
+11106,Electronics,0.528,0.469,0.0,0
+16987,Furniture,0.464,0.369,0.125,0
+8767,Electronics,0.533,0.485,0.011,0
+8346,Appliances,0.502,0.485,0.005,0
+6134,Electronics,0.456,0.409,0.0,0
+8981,Appliances,0.522,0.419,0.0,0
+7280,Electronics,0.389,0.389,0.14,0
+13685,Appliances,0.505,0.45,0.0,0
+2958,Electronics,0.504,0.524,0.0,1
+5125,Appliances,0.449,0.466,0.178,0
+10879,Office Supplies,0.506,0.385,0.0,0
+13521,Furniture,0.441,0.444,0.0,0
+6574,Electronics,0.538,0.453,0.0,0
+14483,Furniture,0.49,0.474,0.0,0
+14733,Furniture,0.456,0.459,0.0,0
+3609,Furniture,0.6,0.494,0.001,0
+223,Electronics,0.498,0.443,0.0,0
+17489,Electronics,0.563,0.534,0.004,0
+1826,Electronics,0.403,0.419,0.0,0
+5021,Appliances,0.728,0.389,0.139,0
+8344,Office Supplies,0.467,0.335,0.0,0
+14490,Electronics,0.498,0.518,0.238,0
+13278,Appliances,0.581,0.488,0.0,0
+4376,Electronics,0.527,0.452,0.0,0
+16717,Appliances,0.534,0.484,0.987,1
+8073,Electronics,0.597,0.523,0.0,0
+6223,Electronics,0.635,0.462,0.0,0
+286,Furniture,0.486,0.499,0.04,0
+8513,Electronics,0.498,0.454,0.0,0
+16282,Office Supplies,0.455,0.455,0.0,0
+9763,Appliances,0.404,0.394,0.014,0
+4954,Furniture,0.448,0.396,0.0,0
+7810,Office Supplies,0.485,0.43,0.0,1
+9629,Furniture,0.475,0.396,0.0,0
+10292,Electronics,0.454,0.435,0.0,0
+8806,Electronics,0.499,0.496,0.001,0
+1412,Office Supplies,0.441,0.386,0.0,0
+5417,Furniture,0.539,0.472,0.0,0
+5361,Furniture,0.502,0.516,0.986,0
+13812,Office Supplies,0.461,0.376,0.0,0
+6447,Office Supplies,0.457,0.421,0.0,0
+8018,Electronics,0.458,0.442,0.0,0
+15985,Furniture,0.528,0.501,0.001,0
+13764,Furniture,0.612,0.497,0.0,0
+13531,Electronics,0.473,0.461,0.815,0
+14948,Office Supplies,0.549,0.484,0.0,0
+10275,Office Supplies,0.448,0.462,0.0,0
+5870,Appliances,0.616,0.481,0.085,0
+14214,Furniture,0.515,0.44,0.886,0
+16227,Furniture,0.465,0.419,0.453,0
+8923,Electronics,0.541,0.521,0.0,0
+455,Furniture,0.465,0.476,0.016,0
+6773,Appliances,0.621,0.475,0.006,1
+3172,Electronics,0.424,0.449,0.001,0
+13187,Electronics,0.444,0.456,0.0,0
+16448,Office Supplies,0.465,0.459,0.003,0
+5065,Electronics,0.52,0.366,0.0,0
+3342,Electronics,0.398,0.471,0.195,0
+9398,Office Supplies,0.504,0.438,0.0,0
+3396,Office Supplies,0.492,0.488,0.002,0
+3462,Furniture,0.584,0.474,0.148,0
+2036,Electronics,0.333,0.383,0.002,0
+11839,Office Supplies,0.504,0.498,0.002,0
+12267,Electronics,0.51,0.473,0.0,0
+17859,Office Supplies,0.494,0.475,0.088,0
+1971,Office Supplies,0.434,0.441,0.0,0
+2197,Electronics,0.522,0.543,0.343,0
+11801,Furniture,0.473,0.425,0.003,0
+8621,Electronics,0.639,0.491,0.0,0
+4120,Furniture,0.428,0.418,0.0,1
+17253,Furniture,0.43,0.431,0.601,0
+7866,Office Supplies,0.507,0.45,0.0,0
+10205,Furniture,0.421,0.436,0.0,0
+13474,Electronics,0.552,0.491,0.001,0
+16578,Electronics,0.327,0.419,0.0,0
+8512,Appliances,0.378,0.386,0.798,0
+12898,Appliances,0.509,0.43,0.0,0
+9242,Appliances,0.527,0.488,0.046,0
+2539,Office Supplies,0.624,0.485,0.004,0
+5085,Furniture,0.498,0.441,0.0,0
+2977,Appliances,0.549,0.551,0.39,0
+3431,Furniture,0.401,0.443,0.0,0
+966,Electronics,0.569,0.491,0.0,0
+15114,Appliances,0.606,0.466,0.0,0
+6121,Furniture,0.417,0.482,0.008,0
+7611,Appliances,0.538,0.395,0.998,0
+12211,Furniture,0.477,0.422,0.999,0
+12210,Electronics,0.411,0.452,0.81,0
+14426,Furniture,0.498,0.503,0.0,0
+13757,Electronics,0.545,0.487,0.996,1
+7339,Furniture,0.495,0.469,0.022,1
+1075,Electronics,0.534,0.526,0.0,0
+927,Electronics,0.346,0.338,0.032,0
+12827,Furniture,0.494,0.395,0.0,0
+3559,Furniture,0.516,0.481,0.038,0
+6300,Furniture,0.483,0.445,0.0,0
+8679,Furniture,0.432,0.368,0.0,0
+1702,Electronics,0.516,0.463,0.056,0
+2149,Furniture,0.461,0.443,0.0,0
+9600,Office Supplies,0.436,0.417,0.0,0
+8306,Electronics,0.488,0.423,0.349,0
+11854,Electronics,0.601,0.564,0.998,0
+15814,Electronics,0.523,0.472,0.0,0
+11844,Appliances,0.507,0.376,0.0,0
+5454,Electronics,0.279,0.406,0.0,0
+1201,Office Supplies,0.502,0.463,0.001,1
+14402,Office Supplies,0.381,0.359,0.996,0
+3960,Electronics,0.532,0.478,0.051,1
+7806,Electronics,0.493,0.523,0.0,1
+603,Electronics,0.448,0.484,0.0,0
+14983,Office Supplies,0.422,0.36,0.0,0
+17528,Electronics,0.536,0.524,0.0,0
+14644,Electronics,0.413,0.459,0.001,0
+175,Electronics,0.277,0.333,0.0,0
+3114,Appliances,0.452,0.344,0.0,0
+17412,Electronics,0.417,0.464,0.851,0
+9563,Office Supplies,0.427,0.517,0.034,0
+10852,Office Supplies,0.436,0.415,0.003,0
+16078,Office Supplies,0.583,0.51,0.001,0
+2671,Furniture,0.398,0.254,0.0,0
+3426,Electronics,0.542,0.497,0.0,1
+14304,Electronics,0.57,0.421,0.15,0
+8304,Office Supplies,0.631,0.484,0.0,0
+15639,Electronics,0.536,0.484,0.0,1
+12544,Electronics,0.358,0.413,0.004,0
+15629,Electronics,0.459,0.463,0.992,0
+5839,Electronics,0.447,0.516,0.0,0
+1305,Electronics,0.359,0.374,0.0,0
+16173,Electronics,0.519,0.478,0.0,0
+1189,Appliances,0.55,0.47,0.001,0
+9533,Electronics,0.407,0.409,0.0,0
+2984,Electronics,0.271,0.232,0.0,0
+10641,Electronics,0.405,0.376,0.0,0
+14779,Appliances,0.548,0.471,0.0,1
+6329,Furniture,0.493,0.416,0.0,1
+12185,Electronics,0.459,0.441,0.0,0
+6256,Electronics,0.439,0.449,0.0,0
+14311,Office Supplies,0.533,0.509,0.0,0
+12727,Office Supplies,0.445,0.472,0.0,0
+5935,Electronics,0.504,0.438,0.0,0
+13843,Appliances,0.574,0.457,0.0,0
+1835,Electronics,0.651,0.505,0.001,0
+1999,Office Supplies,0.403,0.431,0.0,0
+17013,Electronics,0.51,0.461,0.0,0
+12826,Office Supplies,0.505,0.472,0.001,0
+13791,Electronics,0.519,0.467,0.081,0
+1256,Electronics,0.513,0.44,0.0,0
+4510,Electronics,0.492,0.474,0.0,0
+8046,Furniture,0.331,0.311,0.0,0
+15283,Electronics,0.563,0.456,0.0,0
+13686,Appliances,0.506,0.458,0.98,0
+12301,Appliances,0.55,0.396,0.034,0
+11090,Electronics,0.479,0.521,0.03,0
+4604,Office Supplies,0.525,0.476,0.0,0
+12715,Appliances,0.374,0.372,0.0,0
+1386,Electronics,0.487,0.446,0.0,1
+8132,Electronics,0.418,0.443,0.001,0
+9320,Office Supplies,0.49,0.399,0.004,0
+9102,Office Supplies,0.439,0.402,0.0,0
+11515,Furniture,0.588,0.454,0.024,1
+390,Electronics,0.405,0.404,0.0,1
+3837,Office Supplies,0.454,0.337,0.0,0
+7121,Furniture,0.445,0.488,0.962,1
+7052,Electronics,0.615,0.546,0.0,0
+17161,Electronics,0.5,0.458,0.001,0
+5409,Electronics,0.453,0.402,0.0,0
+13076,Electronics,0.645,0.469,0.0,0
+4402,Furniture,0.474,0.449,0.0,0
+8261,Furniture,0.433,0.458,0.0,1
+2232,Office Supplies,0.507,0.508,0.006,1
+12643,Electronics,0.365,0.231,0.0,0
+3276,Appliances,0.518,0.371,0.001,0
+9201,Office Supplies,0.505,0.478,0.0,0
+7619,Furniture,0.462,0.48,0.0,0
+17409,Electronics,0.559,0.481,0.001,0
+12431,Electronics,0.471,0.505,0.999,0
+14323,Electronics,0.61,0.487,0.998,0
+8477,Electronics,0.447,0.383,0.0,0
+533,Furniture,0.404,0.383,0.0,0
+14681,Furniture,0.646,0.48,0.001,0
+13550,Appliances,0.634,0.435,0.969,0
+13074,Appliances,0.527,0.461,0.0,1
+1788,Office Supplies,0.472,0.462,0.0,0
+10459,Furniture,0.51,0.461,0.017,0
+8681,Appliances,0.53,0.503,0.5,0
+1720,Electronics,0.573,0.486,0.981,0
+14720,Electronics,0.385,0.426,0.0,0
+16318,Furniture,0.439,0.473,0.02,0
+2755,Furniture,0.46,0.353,0.0,0
+5385,Office Supplies,0.638,0.467,0.001,0
+7340,Electronics,0.512,0.491,0.0,0
+7320,Office Supplies,0.5,0.489,0.073,0
+633,Office Supplies,0.357,0.403,1.0,0
+11637,Appliances,0.564,0.458,0.0,0
+3386,Electronics,0.454,0.469,0.13,0
+17313,Electronics,0.529,0.482,0.001,1
+16276,Furniture,0.484,0.405,0.0,0
+5605,Furniture,0.513,0.474,0.124,0
+1188,Electronics,0.499,0.449,0.0,0
+4701,Electronics,0.458,0.464,0.0,0
+7301,Appliances,0.55,0.457,0.0,1
+7744,Appliances,0.431,0.379,0.002,0
+7871,Electronics,0.476,0.445,0.061,0
+11068,Electronics,0.552,0.512,0.004,0
+4200,Furniture,0.607,0.499,0.0,0
+14243,Appliances,0.568,0.519,0.003,0
+14940,Electronics,0.453,0.498,0.0,0
+17227,Electronics,0.591,0.508,0.0,0
+11787,Office Supplies,0.489,0.363,0.0,0
+8824,Office Supplies,0.447,0.434,0.004,0
+204,Furniture,0.493,0.456,0.001,0
+12379,Furniture,0.398,0.423,0.0,1
+5448,Electronics,0.621,0.51,0.002,0
+7065,Appliances,0.544,0.425,0.0,0
+10027,Furniture,0.65,0.538,0.003,0
+16842,Office Supplies,0.495,0.516,0.951,0
+9647,Office Supplies,0.559,0.344,0.0,1
+10243,Furniture,0.472,0.433,0.0,0
+10955,Furniture,0.488,0.44,0.0,0
+15147,Electronics,0.409,0.446,0.0,0
+1542,Office Supplies,0.438,0.436,0.0,0
+16854,Office Supplies,0.518,0.526,0.713,0
+12743,Electronics,0.654,0.511,0.0,0
+3789,Electronics,0.495,0.357,0.0,0
+14534,Electronics,0.396,0.4,0.0,0
+12607,Furniture,0.442,0.448,0.0,0
+17398,Appliances,0.558,0.478,0.995,0
+8647,Electronics,0.497,0.415,0.0,0
+9882,Electronics,0.463,0.487,0.944,0
+13339,Appliances,0.5,0.461,0.0,0
+13682,Furniture,0.344,0.49,0.004,0
+3487,Office Supplies,0.482,0.473,0.649,1
+9968,Electronics,0.49,0.491,0.058,1
+6425,Electronics,0.537,0.482,0.822,0
+9700,Electronics,0.625,0.484,0.001,0
+6623,Furniture,0.431,0.423,0.0,0
+426,Office Supplies,0.466,0.488,0.001,0
+4641,Office Supplies,0.49,0.509,0.098,0
+14947,Electronics,0.533,0.431,0.004,0
+12709,Office Supplies,0.484,0.401,0.001,1
+2821,Furniture,0.612,0.468,0.0,0
+15144,Office Supplies,0.582,0.425,0.0,0
+986,Furniture,0.385,0.481,0.657,0
+4573,Office Supplies,0.517,0.46,0.0,0
+5315,Electronics,0.471,0.478,0.0,0
+15527,Electronics,0.505,0.47,0.004,0
+8334,Electronics,0.52,0.395,0.0,1
+2938,Electronics,0.484,0.421,0.0,0
+3404,Electronics,0.477,0.498,1.0,0
+16300,Electronics,0.446,0.452,0.0,0
+15416,Furniture,0.585,0.497,0.0,0
+12665,Appliances,0.473,0.507,0.855,0
+8974,Electronics,0.475,0.48,0.0,0
+6391,Electronics,0.617,0.502,0.002,0
+7651,Office Supplies,0.559,0.469,0.072,0
+4117,Office Supplies,0.499,0.387,0.991,0
+12486,Office Supplies,0.501,0.452,0.0,0
+15117,Electronics,0.556,0.476,0.001,0
+8626,Electronics,0.456,0.477,0.0,0
+14531,Electronics,0.47,0.426,0.001,0
+224,Electronics,0.399,0.435,0.0,0
+5789,Office Supplies,0.22,0.403,0.0,0
+14437,Furniture,0.452,0.411,0.0,1
+14235,Appliances,0.428,0.427,0.015,0
+13428,Furniture,0.549,0.488,0.951,0
+3994,Electronics,0.289,0.203,0.0,0
+6617,Electronics,0.488,0.5,0.0,1
+5212,Appliances,0.583,0.489,0.0,0
+16475,Furniture,0.569,0.474,0.0,0
+1144,Electronics,0.468,0.465,0.0,0
+11346,Office Supplies,0.447,0.388,0.875,0
+11231,Appliances,0.588,0.537,0.0,0
+4388,Electronics,0.583,0.46,0.001,0
+8413,Electronics,0.453,0.482,0.0,0
+6984,Electronics,0.461,0.396,0.0,0
+4846,Office Supplies,0.453,0.429,0.068,0
+6143,Office Supplies,0.564,0.53,0.035,0
+1911,Appliances,0.473,0.427,0.0,1
+6294,Electronics,0.467,0.405,0.0,0
+3083,Appliances,0.647,0.489,0.0,1
+13476,Electronics,0.529,0.47,0.002,0
+17049,Electronics,0.446,0.477,0.024,0
+10385,Electronics,0.668,0.502,0.0,0
+16961,Office Supplies,0.509,0.514,1.0,0
+14794,Office Supplies,0.435,0.448,0.09,0
+8071,Furniture,0.423,0.406,0.001,0
+9154,Furniture,0.537,0.463,0.877,0
+5850,Office Supplies,0.457,0.412,0.008,0
+10716,Electronics,0.574,0.456,0.0,1
+8147,Office Supplies,0.482,0.384,0.0,0
+16804,Electronics,0.485,0.446,0.93,0
+5284,Office Supplies,0.424,0.423,0.0,0
+16995,Office Supplies,0.569,0.436,0.0,1
+1423,Office Supplies,0.492,0.441,0.0,0
+2891,Furniture,0.61,0.413,0.0,0
+5874,Electronics,0.482,0.468,0.0,0
+17248,Furniture,0.454,0.484,0.0,1
+17168,Office Supplies,0.517,0.442,0.021,0
+885,Electronics,0.555,0.482,0.0,0
+11766,Office Supplies,0.408,0.389,0.0,0
+11590,Furniture,0.388,0.433,0.0,0
+15519,Office Supplies,0.573,0.49,0.0,0
+6055,Electronics,0.391,0.375,0.0,0
+1610,Electronics,0.407,0.445,0.001,0
+7910,Electronics,0.555,0.491,0.65,0
+8164,Office Supplies,0.419,0.504,0.0,0
+3297,Electronics,0.499,0.502,0.0,0
+957,Electronics,0.426,0.44,0.002,0
+2154,Electronics,0.545,0.484,0.0,0
+12056,Appliances,0.52,0.475,0.002,0
+6979,Electronics,0.52,0.464,0.0,0
+17960,Electronics,0.43,0.466,0.001,1
+14581,Electronics,0.529,0.424,0.001,0
+2975,Electronics,0.492,0.48,0.0,0
+3448,Furniture,0.427,0.34,0.0,0
+7428,Furniture,0.273,0.454,0.542,0
+5115,Electronics,0.561,0.483,0.0,0
+7568,Electronics,0.509,0.462,0.001,0
+17959,Office Supplies,0.48,0.448,0.01,0
+14288,Electronics,0.512,0.447,0.0,0
+1853,Electronics,0.563,0.518,0.115,0
+5974,Electronics,0.478,0.438,0.007,0
+10042,Electronics,0.453,0.435,0.0,0
+10576,Electronics,0.468,0.37,0.002,0
+2990,Office Supplies,0.527,0.339,0.0,0
+11933,Electronics,0.516,0.468,0.0,0
+16244,Electronics,0.555,0.492,0.0,0
+14819,Furniture,0.547,0.569,0.261,0
+8768,Office Supplies,0.479,0.434,0.0,0
+13883,Office Supplies,0.521,0.443,0.0,0
+15832,Electronics,0.579,0.48,0.033,0
+11576,Office Supplies,0.51,0.439,0.978,0
+14767,Electronics,0.538,0.48,0.002,1
+770,Office Supplies,0.535,0.499,0.0,1
+15974,Furniture,0.564,0.529,0.0,0
+17129,Electronics,0.487,0.483,0.001,0
+12347,Electronics,0.574,0.441,0.0,0
+13390,Furniture,0.545,0.473,0.0,0
+7958,Office Supplies,0.521,0.471,1.0,0
+7905,Electronics,0.537,0.414,0.0,0
+7460,Electronics,0.41,0.469,0.0,0
+2725,Electronics,0.399,0.469,0.0,0
+1789,Office Supplies,0.457,0.392,0.0,0
+2083,Furniture,0.417,0.361,0.0,0
+7240,Appliances,0.62,0.436,0.912,0
+16127,Office Supplies,0.502,0.421,0.001,0
+16337,Appliances,0.591,0.462,0.0,0
+4525,Appliances,0.542,0.455,0.0,0
+7659,Office Supplies,0.475,0.458,0.0,0
+6499,Electronics,0.485,0.503,0.001,0
+1028,Office Supplies,0.523,0.478,0.0,0
+11108,Electronics,0.457,0.458,0.729,0
+10319,Electronics,0.553,0.522,0.02,0
+4681,Electronics,0.404,0.463,0.992,0
+14037,Office Supplies,0.478,0.465,0.165,0
+2951,Office Supplies,0.434,0.457,0.08,0
+17140,Appliances,0.526,0.479,0.052,0
+13035,Electronics,0.542,0.439,0.0,1
+13942,Appliances,0.472,0.459,0.0,0
+11396,Electronics,0.463,0.485,0.0,0
+1877,Appliances,0.495,0.468,0.001,0
+11071,Electronics,0.502,0.531,0.43,0
+10235,Electronics,0.477,0.478,0.0,0
+11195,Furniture,0.532,0.461,0.0,0
+4621,Furniture,0.613,0.48,0.796,0
+15365,Electronics,0.494,0.51,0.445,0
+17890,Appliances,0.451,0.39,0.0,0
+13752,Appliances,0.551,0.454,0.009,0
+3418,Electronics,0.499,0.491,0.0,0
+13070,Furniture,0.507,0.5,0.891,0
+18012,Electronics,0.434,0.462,0.096,0
+17639,Electronics,0.569,0.466,0.015,0
+17780,Office Supplies,0.412,0.383,0.0,0
+1656,Electronics,0.558,0.474,0.0,0
+9759,Electronics,0.442,0.28,0.0,0
+1480,Appliances,0.565,0.457,0.0,0
+158,Furniture,0.465,0.381,0.0,0
+10028,Office Supplies,0.52,0.497,0.0,0
+7298,Furniture,0.488,0.47,0.001,0
+5380,Furniture,0.441,0.452,0.222,0
+6438,Furniture,0.473,0.381,0.002,0
+12203,Office Supplies,0.399,0.431,0.0,0
+505,Electronics,0.493,0.451,0.0,0
+15306,Furniture,0.489,0.524,0.001,0
+10868,Electronics,0.4,0.403,0.0,0
+17943,Electronics,0.505,0.412,0.0,0
+9613,Electronics,0.42,0.499,0.0,0
+3767,Electronics,0.409,0.402,0.0,0
+9636,Furniture,0.657,0.518,0.003,0
+2057,Furniture,0.454,0.452,0.096,0
+5292,Electronics,0.575,0.462,0.0,0
+13906,Electronics,0.45,0.4,0.001,0
+16663,Office Supplies,0.445,0.455,0.014,0
+594,Electronics,0.573,0.481,0.0,0
+12625,Furniture,0.437,0.397,0.0,0
+5506,Electronics,0.607,0.523,0.027,0
+7980,Electronics,0.468,0.433,0.003,0
+171,Electronics,0.437,0.469,0.0,1
+13471,Office Supplies,0.417,0.412,0.146,0
+13789,Office Supplies,0.53,0.517,0.103,0
+2021,Appliances,0.544,0.443,0.0,1
+11572,Furniture,0.487,0.44,0.0,0
+13338,Electronics,0.389,0.436,0.0,0
+17838,Furniture,0.507,0.548,0.0,0
+15459,Electronics,0.49,0.498,0.288,0
+11,Electronics,0.531,0.477,0.0,0
+3036,Electronics,0.57,0.478,0.099,0
+15194,Electronics,0.443,0.449,0.809,0
+1885,Office Supplies,0.382,0.366,0.0,0
+585,Appliances,0.513,0.488,0.0,0
+9028,Electronics,0.467,0.469,0.003,0
+17731,Furniture,0.607,0.557,0.89,0
+5465,Office Supplies,0.638,0.466,0.001,0
+15736,Appliances,0.564,0.487,0.0,0
+2445,Electronics,0.416,0.455,0.0,0
+10002,Electronics,0.623,0.446,0.002,0
+10023,Office Supplies,0.532,0.379,0.0,0
+14481,Electronics,0.493,0.501,0.631,0
+1190,Furniture,0.566,0.434,0.002,0
+1094,Electronics,0.405,0.297,0.0,0
+2656,Electronics,0.443,0.474,0.0,0
+15746,Furniture,0.396,0.383,0.0,0
+9240,Electronics,0.475,0.494,0.0,0
+12320,Appliances,0.501,0.495,0.0,0
+12604,Appliances,0.581,0.481,0.0,1
+6327,Furniture,0.525,0.322,0.0,0
+12147,Office Supplies,0.461,0.464,0.0,0
+16053,Electronics,0.427,0.483,0.057,0
+5724,Furniture,0.482,0.378,0.0,1
+8965,Electronics,0.446,0.484,0.801,0
+7809,Furniture,0.506,0.384,0.0,1
+3833,Furniture,0.639,0.54,0.58,0
+17462,Furniture,0.575,0.478,0.562,0
+16271,Electronics,0.529,0.497,0.003,1
+6990,Office Supplies,0.4,0.49,0.0,0
+8715,Electronics,0.462,0.45,0.007,1
+17275,Office Supplies,0.46,0.479,0.017,0
+1487,Electronics,0.513,0.53,0.016,0
+17237,Appliances,0.508,0.463,0.008,0
+833,Office Supplies,0.431,0.369,0.0,1
+12631,Electronics,0.55,0.49,0.0,0
+3848,Electronics,0.504,0.461,0.004,0
+4365,Electronics,0.369,0.358,0.0,0
+8290,Electronics,0.358,0.43,0.999,0
+12892,Office Supplies,0.455,0.488,0.0,0
+17068,Electronics,0.491,0.483,0.0,0
+8476,Office Supplies,0.485,0.459,0.0,1
+7599,Electronics,0.58,0.371,0.0,0
+9919,Office Supplies,0.47,0.424,0.0,0
+7141,Furniture,0.47,0.501,0.0,0
+4023,Office Supplies,0.334,0.353,0.003,0
+13098,Electronics,0.434,0.482,0.0,0
+9075,Office Supplies,0.436,0.445,0.088,0
+7324,Electronics,0.475,0.488,0.004,0
+16272,Furniture,0.402,0.401,0.0,0
+14372,Electronics,0.521,0.506,0.998,0
+6248,Electronics,0.597,0.508,0.062,0
+8964,Furniture,0.308,0.469,0.011,0
+7601,Electronics,0.47,0.496,0.475,0
+16747,Electronics,0.481,0.473,0.001,0
+13008,Electronics,0.487,0.475,0.204,0
+17562,Electronics,0.44,0.407,0.0,0
+9982,Electronics,0.422,0.357,0.0,0
+6364,Office Supplies,0.419,0.466,0.0,0
+5619,Office Supplies,0.36,0.342,0.0,0
+3188,Furniture,0.447,0.305,0.0,0
+17025,Electronics,0.475,0.392,0.054,1
+13320,Appliances,0.541,0.451,0.0,0
+1463,Office Supplies,0.499,0.483,0.0,1
+7229,Electronics,0.54,0.491,0.016,0
+14987,Electronics,0.528,0.479,0.15,0
+1437,Electronics,0.586,0.409,0.0,0
+12014,Office Supplies,0.479,0.418,0.0,0
+2155,Electronics,0.594,0.454,0.0,0
+14710,Office Supplies,0.515,0.392,0.0,0
+3028,Office Supplies,0.559,0.39,0.988,0
+16243,Office Supplies,0.499,0.353,0.0,0
+219,Electronics,0.533,0.49,0.005,0
+14116,Electronics,0.511,0.512,0.0,0
+2010,Furniture,0.31,0.344,0.0,1
+10268,Office Supplies,0.534,0.518,0.137,1
+10251,Electronics,0.521,0.398,0.0,0
+12404,Appliances,0.454,0.437,0.021,0
+3127,Electronics,0.441,0.498,0.903,0
+5132,Appliances,0.577,0.475,0.0,0
+12009,Office Supplies,0.38,0.367,0.0,0
+4908,Electronics,0.486,0.452,0.994,0
+8032,Appliances,0.537,0.439,0.001,0
+15112,Electronics,0.589,0.511,0.001,0
+8402,Electronics,0.52,0.463,0.0,0
+9884,Furniture,0.494,0.489,0.314,1
+4033,Furniture,0.52,0.492,0.0,0
+735,Appliances,0.459,0.45,0.942,0
+10946,Electronics,0.545,0.462,0.0,0
+7993,Electronics,0.489,0.497,0.07,0
+2451,Appliances,0.476,0.47,0.0,0
+1957,Electronics,0.477,0.296,0.0,0
+12587,Electronics,0.45,0.432,0.0,0
+14147,Furniture,0.427,0.455,0.0,0
+2511,Electronics,0.577,0.48,0.036,0
+1490,Electronics,0.454,0.448,0.001,1
+7730,Office Supplies,0.582,0.489,0.0,0
+6331,Office Supplies,0.557,0.514,0.0,0
+8487,Electronics,0.457,0.354,0.328,0
+12692,Electronics,0.39,0.285,0.0,0
+16015,Appliances,0.501,0.514,0.01,0
+3402,Office Supplies,0.5,0.501,0.0,0
+11048,Electronics,0.488,0.52,0.004,0
+5943,Office Supplies,0.371,0.337,0.0,0
+12775,Office Supplies,0.504,0.412,0.0,0
+12058,Electronics,0.52,0.433,0.0,0
+7749,Furniture,0.625,0.493,0.998,0
+5369,Electronics,0.406,0.374,0.0,0
+17261,Electronics,0.337,0.379,0.0,0
+2738,Furniture,0.599,0.508,0.0,0
+11760,Office Supplies,0.466,0.402,0.0,0
+3388,Office Supplies,0.426,0.39,0.0,0
+17032,Appliances,0.516,0.557,0.091,0
+11441,Electronics,0.516,0.496,0.0,0
+15600,Electronics,0.555,0.477,0.002,0
+6116,Electronics,0.518,0.519,0.448,0
+8498,Electronics,0.547,0.543,0.0,0
+14093,Electronics,0.402,0.431,0.0,0
+17405,Furniture,0.545,0.516,0.99,1
+12264,Office Supplies,0.553,0.436,0.19,0
+9129,Office Supplies,0.44,0.449,0.0,0
+10651,Electronics,0.582,0.544,0.249,0
+13704,Office Supplies,0.417,0.374,0.001,0
+1773,Appliances,0.461,0.478,0.002,0
+13077,Electronics,0.567,0.498,0.0,0
+14633,Furniture,0.553,0.463,0.0,0
+3211,Appliances,0.49,0.431,0.0,0
+1468,Furniture,0.363,0.403,0.0,0
+11475,Electronics,0.478,0.463,0.0,1
+1361,Appliances,0.495,0.472,0.0,0
+10210,Electronics,0.375,0.444,0.0,0
+3953,Electronics,0.459,0.427,0.001,0
+858,Furniture,0.559,0.44,0.001,0
+5856,Electronics,0.591,0.5,0.005,0
+16281,Electronics,0.402,0.424,0.0,0
+11702,Furniture,0.485,0.504,0.003,0
+4231,Furniture,0.433,0.446,0.005,0
+1287,Electronics,0.44,0.44,0.0,0
+9216,Electronics,0.528,0.476,0.023,0
+7096,Furniture,0.549,0.506,0.0,0
+12923,Electronics,0.456,0.491,0.354,0
+4192,Appliances,0.383,0.383,0.0,0
+12269,Office Supplies,0.465,0.381,0.0,1
+9121,Furniture,0.595,0.531,0.0,0
+13089,Office Supplies,0.524,0.489,0.0,0
+6982,Electronics,0.523,0.45,0.0,0
+3362,Office Supplies,0.433,0.437,0.0,0
+13274,Electronics,0.481,0.525,0.967,0
+6707,Electronics,0.439,0.448,0.028,0
+10971,Office Supplies,0.507,0.421,0.0,0
+9584,Furniture,0.451,0.462,0.148,0
+3824,Electronics,0.507,0.471,0.001,0
+8229,Office Supplies,0.442,0.397,0.0,0
+14621,Electronics,0.48,0.403,0.0,0
+10175,Office Supplies,0.401,0.413,0.008,0
+12704,Office Supplies,0.477,0.429,0.001,0
+9590,Electronics,0.561,0.483,0.0,0
+11079,Electronics,0.461,0.45,0.0,1
+7368,Furniture,0.466,0.382,0.0,0
+13072,Office Supplies,0.482,0.465,0.0,0
+13356,Electronics,0.501,0.376,0.0,0
+7148,Electronics,0.482,0.429,0.995,1
+7451,Furniture,0.465,0.388,0.3,0
+5709,Appliances,0.545,0.471,0.0,1
+10786,Electronics,0.527,0.478,0.022,1
+3150,Electronics,0.372,0.23,0.0,0
+1612,Electronics,0.535,0.478,0.018,0
+17321,Electronics,0.449,0.469,0.991,0
+5861,Furniture,0.577,0.422,0.0,0
+14930,Furniture,0.521,0.453,0.0,0
+6199,Electronics,0.48,0.445,0.006,0
+6118,Office Supplies,0.539,0.49,0.0,1
+377,Electronics,0.588,0.483,0.0,0
+9460,Electronics,0.481,0.362,0.016,0
+17804,Electronics,0.524,0.496,1.0,0
+2058,Appliances,0.587,0.481,0.714,1
+14729,Furniture,0.556,0.511,0.0,0
+15484,Electronics,0.468,0.48,0.003,0
+4793,Electronics,0.559,0.461,0.0,0
+11949,Office Supplies,0.463,0.473,0.855,0
+11719,Furniture,0.358,0.397,0.315,0
+1555,Office Supplies,0.494,0.378,0.0,0
+13359,Electronics,0.364,0.295,0.006,1
+12983,Appliances,0.546,0.406,0.0,0
+8588,Electronics,0.569,0.458,0.0,0
+1902,Electronics,0.464,0.508,0.216,0
+17555,Furniture,0.475,0.464,0.001,0
+15555,Electronics,0.425,0.408,0.0,0
+636,Electronics,0.472,0.411,0.008,0
+8440,Electronics,0.535,0.493,0.0,0
+3037,Furniture,0.517,0.488,0.0,0
+13644,Electronics,0.606,0.459,0.998,0
+6475,Furniture,0.416,0.46,0.03,0
+12777,Electronics,0.448,0.448,0.0,0
+9841,Electronics,0.501,0.457,0.0,0
+3095,Furniture,0.598,0.459,0.001,0
+1544,Electronics,0.454,0.47,0.001,0
+13694,Appliances,0.414,0.457,0.043,0
+5287,Office Supplies,0.414,0.398,0.0,0
+4874,Electronics,0.515,0.477,0.0,0
+6702,Office Supplies,0.509,0.476,0.0,0
+9991,Electronics,0.395,0.397,0.0,0
+9071,Electronics,0.52,0.483,0.001,1
+9715,Electronics,0.505,0.391,0.0,0
+9603,Office Supplies,0.511,0.468,0.0,0
+15635,Office Supplies,0.376,0.381,0.0,0
+14232,Furniture,0.464,0.401,0.06,1
+11013,Electronics,0.4,0.357,0.969,0
+5512,Furniture,0.594,0.478,0.0,0
+11349,Furniture,0.471,0.433,0.0,0
+11382,Furniture,0.46,0.448,0.004,0
+7125,Electronics,0.474,0.435,0.005,0
+5799,Office Supplies,0.317,0.327,0.0,0
+5020,Furniture,0.48,0.482,0.034,0
+1905,Appliances,0.507,0.47,0.0,0
+16354,Electronics,0.466,0.444,0.0,0
+8160,Office Supplies,0.436,0.43,0.116,0
+16286,Office Supplies,0.488,0.413,0.04,0
+14899,Electronics,0.528,0.43,0.004,0
+10526,Electronics,0.576,0.479,0.001,0
+17858,Electronics,0.414,0.468,0.343,0
+3755,Furniture,0.571,0.516,0.999,0
+5486,Electronics,0.555,0.502,0.004,0
+15558,Electronics,0.573,0.484,0.002,0
+3005,Furniture,0.478,0.489,0.0,0
+4276,Furniture,0.438,0.421,0.037,0
+5479,Appliances,0.421,0.443,0.0,0
+14541,Electronics,0.627,0.46,0.0,0
+579,Electronics,0.501,0.472,0.58,0
+4459,Office Supplies,0.462,0.471,0.0,0
+9118,Electronics,0.516,0.51,0.319,0
+16133,Electronics,0.575,0.439,0.0,0
+5405,Appliances,0.377,0.423,0.0,0
+11777,Office Supplies,0.422,0.41,0.0,0
+3067,Furniture,0.519,0.419,0.0,0
+11972,Office Supplies,0.45,0.394,0.0,1
+17751,Electronics,0.426,0.438,0.0,0
+11097,Furniture,0.46,0.421,0.0,0
+4484,Electronics,0.525,0.456,0.0,0
+7496,Office Supplies,0.559,0.463,0.004,0
+9022,Office Supplies,0.591,0.501,0.0,0
+2260,Electronics,0.45,0.485,0.002,0
+11566,Appliances,0.482,0.491,0.005,0
+403,Electronics,0.512,0.393,0.0,0
+8830,Office Supplies,0.475,0.439,0.167,0
+4435,Electronics,0.503,0.47,0.0,0
+2157,Office Supplies,0.461,0.5,0.031,0
+12687,Furniture,0.589,0.439,0.011,0
+7326,Furniture,0.476,0.44,0.056,0
+15587,Office Supplies,0.505,0.423,0.0,0
+9704,Electronics,0.542,0.458,0.0,0
+6077,Office Supplies,0.448,0.404,0.158,0
+12429,Furniture,0.416,0.422,0.0,0
+8976,Furniture,0.474,0.466,0.0,0
+16277,Appliances,0.494,0.424,0.008,0
+8131,Electronics,0.468,0.457,0.041,0
+10102,Electronics,0.46,0.49,0.0,0
+14502,Furniture,0.499,0.402,0.0,0
+16478,Furniture,0.326,0.346,0.0,0
+16787,Furniture,0.474,0.468,0.107,0
+10731,Furniture,0.593,0.445,0.0,0
+14429,Office Supplies,0.563,0.47,0.0,0
+10824,Electronics,0.438,0.326,0.001,0
+4630,Electronics,0.468,0.448,0.0,0
+11467,Office Supplies,0.417,0.476,0.528,0
+13333,Electronics,0.562,0.521,0.0,0
+11173,Furniture,0.526,0.505,0.986,0
+6186,Electronics,0.484,0.479,0.0,0
+12990,Electronics,0.555,0.468,0.999,0
+2014,Furniture,0.504,0.424,0.0,0
+12229,Electronics,0.589,0.459,0.006,1
+13440,Furniture,0.36,0.371,0.0,0
+16710,Office Supplies,0.286,0.409,0.0,0
+7435,Furniture,0.467,0.471,0.036,1
+4770,Appliances,0.564,0.501,0.678,0
+12502,Electronics,0.594,0.513,0.805,0
+6234,Electronics,0.403,0.41,0.0,0
+15246,Appliances,0.603,0.465,0.0,0
+1435,Electronics,0.579,0.472,0.0,1
+2280,Electronics,0.576,0.483,0.001,0
+13762,Office Supplies,0.453,0.478,0.0,0
+2229,Electronics,0.36,0.393,0.502,0
+14262,Appliances,0.396,0.467,0.0,1
+2503,Electronics,0.549,0.435,0.0,0
+12216,Office Supplies,0.52,0.481,0.0,0
+17262,Electronics,0.532,0.476,0.0,0
+5787,Appliances,0.605,0.446,0.02,0
+10569,Furniture,0.429,0.343,0.0,0
+3709,Electronics,0.428,0.457,0.0,1
+15443,Furniture,0.592,0.51,0.0,0
+9505,Electronics,0.552,0.419,0.0,0
+14319,Electronics,0.38,0.369,0.0,0
+12060,Furniture,0.602,0.521,0.019,0
+17968,Office Supplies,0.565,0.378,0.0,0
+173,Electronics,0.462,0.523,0.035,0
+1036,Furniture,0.357,0.292,0.0,0
+10811,Electronics,0.447,0.463,0.0,0
+11012,Electronics,0.362,0.433,0.029,0
+1204,Electronics,0.466,0.473,0.0,0
+7178,Office Supplies,0.563,0.494,0.0,0
+11357,Electronics,0.475,0.46,0.002,0
+17400,Electronics,0.458,0.435,0.0,0
+16719,Electronics,0.465,0.494,0.006,0
+2546,Appliances,0.599,0.436,0.006,1
+13004,Electronics,0.553,0.492,0.0,0
+332,Office Supplies,0.468,0.482,0.01,0
+8096,Electronics,0.471,0.498,0.529,0
+7640,Electronics,0.465,0.485,0.0,0
+12348,Electronics,0.519,0.505,0.0,0
+3058,Furniture,0.552,0.477,0.0,0
+6405,Office Supplies,0.511,0.46,0.0,0
+7084,Electronics,0.456,0.39,0.881,0
+15125,Office Supplies,0.423,0.438,0.002,1
+12100,Appliances,0.571,0.517,0.004,1
+6073,Office Supplies,0.383,0.354,0.0,0
+11984,Office Supplies,0.565,0.479,0.0,0
+3033,Electronics,0.561,0.503,0.0,0
+16391,Office Supplies,0.383,0.371,0.0,1
+11054,Electronics,0.459,0.493,0.0,0
+8175,Office Supplies,0.451,0.501,0.089,0
+13783,Furniture,0.414,0.416,0.0,0
+7274,Appliances,0.508,0.465,0.0,1
+8367,Appliances,0.549,0.441,0.0,0
+10315,Electronics,0.625,0.47,0.0,0
+1,Electronics,0.434,0.461,0.0,0
+10832,Office Supplies,0.551,0.513,0.0,0
+10260,Furniture,0.502,0.5,0.0,1
+15350,Electronics,0.526,0.498,0.003,0
+16974,Electronics,0.535,0.481,0.001,0
+7381,Office Supplies,0.454,0.4,0.0,1
+8265,Appliances,0.529,0.449,0.0,0
+2071,Furniture,0.536,0.507,0.032,0
+11034,Electronics,0.502,0.481,0.001,0
+17955,Electronics,0.433,0.371,0.0,0
+1101,Furniture,0.508,0.467,0.0,0
+17454,Appliances,0.583,0.459,0.0,0
+12683,Furniture,0.506,0.394,0.0,0
+17786,Electronics,0.457,0.488,0.254,0
+15992,Office Supplies,0.448,0.382,0.0,0
+3493,Electronics,0.526,0.497,0.001,0
+7252,Electronics,0.534,0.463,0.71,0
+13604,Office Supplies,0.491,0.413,0.0,0
+12907,Electronics,0.499,0.485,0.058,0
+14411,Electronics,0.595,0.495,0.0,0
+3908,Office Supplies,0.472,0.431,0.0,0
+6929,Furniture,0.476,0.415,0.0,0
+1325,Electronics,0.342,0.355,0.0,0
+12164,Furniture,0.546,0.49,0.0,0
+17158,Electronics,0.544,0.501,0.0,0
+12606,Office Supplies,0.376,0.384,0.097,0
+8994,Office Supplies,0.455,0.456,0.0,0
+4977,Electronics,0.348,0.449,0.993,0
+4644,Furniture,0.495,0.414,0.99,0
+15083,Electronics,0.605,0.496,0.0,1
+2761,Furniture,0.574,0.432,0.0,0
+14858,Appliances,0.584,0.451,0.0,0
+1673,Office Supplies,0.584,0.486,0.003,0
+6874,Electronics,0.524,0.523,0.001,0
+12064,Office Supplies,0.589,0.505,0.687,1
+9845,Office Supplies,0.561,0.455,0.003,0
+12801,Electronics,0.533,0.521,0.986,1
+15217,Office Supplies,0.442,0.352,0.894,0
+8736,Electronics,0.481,0.509,0.033,0
+6198,Furniture,0.5,0.503,0.005,0
+4487,Electronics,0.549,0.485,0.005,0
+17913,Electronics,0.528,0.515,0.006,1
+16323,Office Supplies,0.452,0.516,0.269,0
+3217,Electronics,0.554,0.5,0.0,0
+3825,Office Supplies,0.412,0.442,0.01,0
+4579,Furniture,0.448,0.407,0.0,1
+9520,Electronics,0.586,0.495,0.0,1
+6930,Electronics,0.419,0.472,0.985,0
+16218,Electronics,0.536,0.406,0.0,0
+1763,Appliances,0.493,0.476,0.97,0
+10634,Office Supplies,0.454,0.455,0.0,0
+9246,Electronics,0.357,0.33,0.0,0
+6083,Furniture,0.468,0.47,0.0,0
+1876,Furniture,0.243,0.264,0.0,0
+13879,Electronics,0.517,0.469,0.0,0
+3534,Office Supplies,0.482,0.499,0.826,0
+6667,Electronics,0.504,0.457,0.0,0
+4797,Furniture,0.483,0.459,0.65,0
+11017,Furniture,0.418,0.375,0.0,0
+9932,Office Supplies,0.593,0.455,0.0,0
+11438,Electronics,0.474,0.52,0.0,0
+11151,Electronics,0.411,0.437,0.0,0
+6302,Office Supplies,0.48,0.383,0.455,1
+14400,Office Supplies,0.466,0.422,0.007,0
+4948,Office Supplies,0.583,0.473,0.0,0
+17833,Electronics,0.474,0.454,0.0,0
+8796,Office Supplies,0.449,0.458,0.0,0
+15052,Appliances,0.515,0.49,0.069,0
+14187,Office Supplies,0.516,0.471,0.0,0
+7006,Office Supplies,0.59,0.336,0.0,0
+14640,Furniture,0.376,0.4,0.0,0
+14454,Office Supplies,0.427,0.424,0.0,0
+845,Electronics,0.513,0.474,0.0,0
+5679,Electronics,0.48,0.394,0.0,0
+12097,Furniture,0.593,0.478,0.0,0
+4424,Furniture,0.483,0.431,0.844,0
+1872,Office Supplies,0.471,0.414,0.622,0
+14684,Electronics,0.523,0.455,0.0,0
+17363,Electronics,0.495,0.499,0.003,0
+8639,Electronics,0.532,0.513,0.011,0
+7258,Furniture,0.61,0.509,0.048,0
+3378,Furniture,0.563,0.415,0.006,0
+3074,Furniture,0.602,0.424,0.0,0
+7699,Appliances,0.615,0.512,0.019,0
+7171,Electronics,0.523,0.511,0.995,0
+13235,Electronics,0.4,0.44,0.0,0
+11487,Furniture,0.516,0.513,0.721,0
+10877,Appliances,0.485,0.453,0.055,0
+11799,Office Supplies,0.475,0.325,0.004,0
+7010,Office Supplies,0.564,0.477,0.0,1
+15341,Office Supplies,0.396,0.392,0.033,0
+568,Office Supplies,0.469,0.377,0.001,0
+15101,Electronics,0.399,0.309,0.0,0
+2358,Office Supplies,0.563,0.498,0.0,0
+14747,Furniture,0.54,0.456,0.0,0
+8601,Office Supplies,0.329,0.325,0.0,0
+1049,Appliances,0.553,0.44,0.071,0
+14101,Furniture,0.452,0.473,0.334,0
+3646,Electronics,0.504,0.477,0.007,1
+17958,Electronics,0.599,0.45,0.01,0
+11890,Furniture,0.423,0.355,0.0,0
+9134,Electronics,0.525,0.494,0.001,0
+13158,Electronics,0.461,0.404,0.0,0
+9237,Office Supplies,0.455,0.467,0.0,0
+3214,Electronics,0.588,0.499,0.0,0
+7034,Office Supplies,0.412,0.459,0.0,0
+5023,Electronics,0.434,0.443,0.0,0
+315,Electronics,0.448,0.31,0.0,0
+13159,Electronics,0.384,0.346,0.0,0
+2471,Electronics,0.557,0.482,0.0,1
+8412,Electronics,0.572,0.498,0.0,0
+7053,Office Supplies,0.523,0.348,0.0,0
+10664,Electronics,0.504,0.411,0.506,1
+14081,Electronics,0.472,0.426,0.0,1
+3516,Electronics,0.485,0.475,0.117,0
+9741,Furniture,0.54,0.495,0.0,0
+2283,Furniture,0.45,0.371,0.0,0
+7285,Furniture,0.449,0.392,0.0,0
+17654,Electronics,0.549,0.493,0.986,1
+4457,Electronics,0.488,0.477,0.009,0
+12322,Electronics,0.507,0.508,0.94,0
+12490,Furniture,0.511,0.432,0.0,0
+17685,Electronics,0.428,0.415,0.0,0
+10835,Furniture,0.539,0.519,0.005,0
+3613,Electronics,0.566,0.502,0.048,0
+12711,Electronics,0.425,0.414,0.007,0
+8245,Furniture,0.231,0.443,0.0,0
+8752,Furniture,0.503,0.466,0.18,0
+2834,Appliances,0.364,0.369,0.0,0
+6738,Electronics,0.409,0.444,0.019,0
+15303,Furniture,0.492,0.442,0.001,0
+9591,Furniture,0.568,0.48,0.0,0
+16324,Appliances,0.564,0.442,0.0,0
+11466,Electronics,0.47,0.487,0.002,0
+15842,Office Supplies,0.51,0.468,0.0,1
+233,Electronics,0.455,0.462,0.0,1
+4274,Office Supplies,0.56,0.377,0.0,0
+8004,Office Supplies,0.499,0.453,0.005,0
+5386,Electronics,0.515,0.479,0.029,1
+17190,Appliances,0.648,0.465,0.0,1
+463,Office Supplies,0.483,0.421,0.0,0
+13587,Electronics,0.433,0.419,0.0,0
+2120,Office Supplies,0.438,0.438,0.002,0
+13414,Electronics,0.616,0.491,0.125,0
+432,Electronics,0.504,0.468,0.0,0
+16523,Office Supplies,0.611,0.519,0.001,0
+4015,Office Supplies,0.492,0.41,0.0,0
+13661,Furniture,0.508,0.477,0.026,0
+6590,Office Supplies,0.577,0.359,0.046,0
+9381,Furniture,0.31,0.286,0.0,0
+11577,Office Supplies,0.486,0.435,0.0,1
+3863,Electronics,0.683,0.476,0.999,0
+6619,Furniture,0.357,0.303,0.0,0
+18021,Electronics,0.515,0.521,0.752,0
+6928,Office Supplies,0.519,0.441,0.001,0
+2446,Electronics,0.603,0.527,0.0,0
+17155,Office Supplies,0.522,0.501,0.0,0
+12515,Electronics,0.487,0.483,0.0,0
+11518,Office Supplies,0.475,0.465,0.001,0
+12204,Appliances,0.484,0.448,0.983,0
+14269,Furniture,0.6,0.488,1.0,0
+13374,Office Supplies,0.543,0.407,1.0,0
+3537,Electronics,0.572,0.352,0.0,0
+3608,Electronics,0.484,0.476,0.0,0
+2642,Furniture,0.536,0.44,0.0,1
+15195,Electronics,0.506,0.469,0.787,1
+6978,Furniture,0.461,0.437,0.0,0
+706,Furniture,0.462,0.395,0.0,0
+8979,Furniture,0.405,0.403,0.0,0
+5257,Office Supplies,0.539,0.434,0.007,0
+8627,Furniture,0.505,0.424,0.0,0
+13772,Electronics,0.405,0.466,0.0,0
+13193,Furniture,0.447,0.468,0.0,0
+3416,Appliances,0.578,0.459,0.0,0
+3023,Electronics,0.48,0.474,0.238,0
+11352,Electronics,0.518,0.499,0.0,0
+5682,Electronics,0.659,0.536,0.004,1
+7256,Furniture,0.43,0.385,0.0,0
+1728,Appliances,0.607,0.528,0.0,0
+4407,Electronics,0.392,0.448,0.0,0
+12678,Office Supplies,0.506,0.46,0.0,0
+256,Electronics,0.491,0.447,0.0,0
+4279,Furniture,0.572,0.479,0.0,0
+7582,Appliances,0.597,0.45,0.0,1
+3772,Electronics,0.524,0.402,0.217,0
+16867,Furniture,0.465,0.407,0.0,0
+16978,Furniture,0.451,0.447,0.941,0
+6349,Office Supplies,0.574,0.502,0.0,0
+17964,Electronics,0.52,0.402,0.002,0
+8102,Furniture,0.407,0.443,0.0,0
+1157,Electronics,0.521,0.491,0.0,0
+17113,Electronics,0.426,0.491,0.0,0
+9632,Office Supplies,0.471,0.471,0.793,0
+10851,Office Supplies,0.412,0.415,0.513,0
+900,Office Supplies,0.503,0.443,0.981,0
+2473,Office Supplies,0.615,0.51,0.0,1
+2963,Appliances,0.46,0.502,0.973,1
+15063,Electronics,0.497,0.415,0.0,0
+14956,Electronics,0.503,0.482,0.0,0
+16568,Electronics,0.457,0.476,0.014,0
+4202,Office Supplies,0.395,0.42,0.0,1
+14293,Electronics,0.509,0.506,0.531,0
+606,Furniture,0.439,0.412,0.0,1
+3027,Office Supplies,0.451,0.412,0.996,0
+7648,Office Supplies,0.479,0.444,0.009,0
+16997,Furniture,0.565,0.485,0.0,0
+11143,Office Supplies,0.409,0.331,0.018,0
+10417,Furniture,0.456,0.408,0.0,0
+17036,Electronics,0.427,0.385,0.0,0
+13126,Furniture,0.403,0.419,0.813,0
+14820,Electronics,0.593,0.508,0.518,0
+7221,Office Supplies,0.394,0.432,0.0,0
+17763,Electronics,0.525,0.459,0.046,1
+2822,Electronics,0.428,0.472,0.0,0
+9468,Electronics,0.501,0.372,0.0,0
+16619,Office Supplies,0.462,0.439,0.0,0
+14335,Electronics,0.511,0.503,0.002,0
+11539,Furniture,0.324,0.299,0.0,0
+3697,Electronics,0.552,0.521,1.0,0
+5924,Appliances,0.559,0.522,0.009,0
+12669,Electronics,0.497,0.49,0.005,0
+15570,Electronics,0.51,0.465,0.0,0
+9869,Office Supplies,0.485,0.503,0.139,0
+8993,Office Supplies,0.502,0.487,0.02,0
+5029,Furniture,0.388,0.394,0.0,0
+9561,Furniture,0.502,0.496,0.002,0
+13801,Office Supplies,0.474,0.475,0.0,1
+4097,Appliances,0.498,0.465,0.0,0
+10318,Electronics,0.535,0.461,0.0,0
+684,Office Supplies,0.474,0.51,0.625,0
+2040,Electronics,0.502,0.436,1.0,0
+5658,Furniture,0.519,0.458,0.0,0
+5093,Appliances,0.522,0.472,0.0,0
+8953,Office Supplies,0.447,0.49,0.0,0
+7563,Furniture,0.572,0.492,0.0,0
+7517,Office Supplies,0.557,0.439,0.0,0
+3785,Electronics,0.398,0.392,0.0,0
+7149,Office Supplies,0.457,0.451,0.0,0
+2042,Furniture,0.541,0.556,0.146,0
+1413,Office Supplies,0.454,0.429,0.0,0
+10239,Electronics,0.496,0.506,0.012,0
+7717,Electronics,0.484,0.473,0.0,0
+7067,Appliances,0.598,0.53,0.006,0
+778,Electronics,0.477,0.459,0.002,0
+11139,Electronics,0.509,0.505,0.282,0
+12919,Furniture,0.412,0.415,0.0,0
+16326,Office Supplies,0.45,0.407,0.981,0
+2854,Furniture,0.44,0.366,0.0,0
+14873,Furniture,0.411,0.445,0.0,0
+9534,Furniture,0.64,0.535,0.0,0
+17715,Office Supplies,0.573,0.511,0.0,0
+9228,Electronics,0.485,0.412,0.0,0
+582,Office Supplies,0.42,0.432,0.0,0
+5196,Furniture,0.309,0.286,0.039,0
+5681,Office Supplies,0.415,0.301,0.001,0
+10474,Electronics,0.433,0.476,0.001,0
+15948,Electronics,0.497,0.478,0.0,0
+1384,Office Supplies,0.488,0.405,0.0,0
+281,Electronics,0.538,0.482,0.0,0
+9363,Electronics,0.474,0.478,0.989,1
+4863,Appliances,0.555,0.477,0.001,0
+156,Electronics,0.417,0.454,0.0,0
+3694,Appliances,0.518,0.521,0.989,0
+2559,Electronics,0.559,0.425,0.0,0
+11247,Furniture,0.418,0.454,0.0,0
+12355,Office Supplies,0.494,0.491,0.001,0
+13296,Electronics,0.532,0.475,0.903,0
+3060,Furniture,0.46,0.372,0.0,0
+10077,Electronics,0.479,0.504,0.024,0
+1441,Electronics,0.574,0.504,0.0,0
+17818,Electronics,0.437,0.341,0.0,0
+17949,Electronics,0.407,0.326,0.0,0
+12396,Appliances,0.532,0.486,0.059,0
+15625,Office Supplies,0.521,0.518,0.466,0
+3615,Furniture,0.506,0.499,0.004,0
+15571,Electronics,0.429,0.428,0.002,0
+12574,Electronics,0.52,0.469,0.0,1
+11545,Office Supplies,0.419,0.345,0.0,0
+16140,Appliances,0.304,0.459,0.008,0
+15146,Appliances,0.589,0.507,0.997,0
+13955,Furniture,0.533,0.506,0.442,0
+7210,Electronics,0.378,0.365,0.0,1
+5306,Electronics,0.471,0.353,0.0,0
+8281,Appliances,0.542,0.442,0.0,0
+4789,Furniture,0.44,0.425,0.004,0
+7054,Furniture,0.437,0.491,0.0,0
+14008,Appliances,0.562,0.508,0.001,0
+5645,Furniture,0.445,0.407,0.917,0
+3530,Office Supplies,0.429,0.395,0.0,0
+2852,Office Supplies,0.431,0.383,0.98,0
+6479,Appliances,0.428,0.459,0.0,1
+5718,Electronics,0.412,0.45,0.007,0
+11200,Electronics,0.566,0.469,0.0,0
+2613,Office Supplies,0.541,0.492,0.407,0
+7009,Office Supplies,0.519,0.487,0.0,0
+4170,Appliances,0.53,0.447,0.0,0
+11361,Electronics,0.48,0.458,0.0,0
+12761,Office Supplies,0.485,0.53,0.993,0
+9040,Electronics,0.381,0.265,0.0,0
+1196,Office Supplies,0.462,0.397,0.21,0
+7616,Electronics,0.441,0.459,0.0,0
+5635,Electronics,0.428,0.49,0.006,0
+12439,Electronics,0.591,0.496,0.08,0
+5867,Furniture,0.295,0.408,0.0,0
+17637,Furniture,0.54,0.482,0.0,0
+3366,Appliances,0.409,0.432,0.004,0
+14017,Office Supplies,0.422,0.4,0.999,0
+620,Electronics,0.682,0.456,0.0,0
+7309,Appliances,0.512,0.482,0.0,0
+11421,Furniture,0.4,0.316,0.0,0
+13586,Electronics,0.511,0.467,0.093,0
+1568,Electronics,0.444,0.49,0.0,0
+7128,Electronics,0.606,0.453,0.002,0
+12872,Office Supplies,0.467,0.384,0.0,0
+6735,Electronics,0.533,0.439,0.0,0
+898,Office Supplies,0.419,0.423,0.0,0
+10204,Electronics,0.372,0.44,0.0,0
+5594,Electronics,0.501,0.485,0.972,0
+6088,Electronics,0.538,0.452,0.0,0
+14678,Office Supplies,0.434,0.369,0.0,0
+6138,Office Supplies,0.494,0.505,0.386,0
+4554,Office Supplies,0.508,0.394,0.0,0
+6195,Furniture,0.397,0.407,0.0,0
+15048,Electronics,0.478,0.468,0.0,0
+4703,Electronics,0.517,0.497,0.0,0
+8870,Furniture,0.355,0.432,0.0,0
+16069,Electronics,0.509,0.51,0.462,0
+15798,Office Supplies,0.532,0.48,0.001,0
+10885,Office Supplies,0.516,0.501,0.0,1
+12314,Office Supplies,0.468,0.427,0.001,0
+7634,Furniture,0.373,0.425,0.0,1
+13186,Electronics,0.562,0.499,0.0,0
+6944,Office Supplies,0.547,0.477,0.0,0
+13618,Electronics,0.604,0.482,0.001,0
+7182,Electronics,0.558,0.414,0.0,0
+5401,Electronics,0.41,0.418,0.0,0
+14704,Furniture,0.457,0.419,0.001,0
+15338,Office Supplies,0.481,0.499,0.063,0
+10611,Electronics,0.553,0.512,0.0,1
+8690,Electronics,0.556,0.442,0.0,0
+2832,Appliances,0.55,0.494,0.0,0
+17003,Electronics,0.521,0.455,0.0,0
+17078,Office Supplies,0.517,0.483,0.001,0
+9757,Office Supplies,0.341,0.391,0.0,0
+7456,Furniture,0.54,0.502,0.0,0
+16966,Office Supplies,0.358,0.35,0.09,0
+5139,Electronics,0.54,0.497,0.0,0
+3220,Electronics,0.564,0.466,0.0,0
+12065,Appliances,0.642,0.512,0.0,0
+3400,Office Supplies,0.452,0.467,0.012,1
+16082,Electronics,0.551,0.537,0.0,0
+6675,Electronics,0.447,0.427,0.001,0
+164,Electronics,0.505,0.51,0.015,0
+11888,Office Supplies,0.459,0.422,0.0,0
+1963,Office Supplies,0.501,0.463,0.002,0
+475,Furniture,0.506,0.509,0.943,1
+11938,Electronics,0.311,0.237,0.0,0
+11727,Electronics,0.562,0.477,0.043,0
+17527,Appliances,0.525,0.489,0.555,0
+15506,Electronics,0.532,0.458,0.003,0
+389,Office Supplies,0.452,0.484,0.0,0
+15239,Office Supplies,0.529,0.487,0.99,0
+8956,Electronics,0.425,0.407,0.0,1
+14142,Furniture,0.453,0.438,0.0,0
+16942,Electronics,0.533,0.379,0.406,0
+12639,Office Supplies,0.531,0.443,0.014,0
+1498,Electronics,0.498,0.502,0.0,0
+4028,Appliances,0.499,0.45,0.0,0
+2844,Office Supplies,0.577,0.5,0.0,0
+14013,Office Supplies,0.548,0.47,0.0,0
+12026,Appliances,0.496,0.436,0.0,0
+9461,Electronics,0.512,0.381,0.0,0
+13034,Office Supplies,0.468,0.462,0.0,0
+10937,Furniture,0.382,0.442,0.0,0
+11425,Appliances,0.546,0.515,0.122,0
+9175,Office Supplies,0.466,0.415,0.0,0
+3663,Electronics,0.456,0.46,1.0,0
+14453,Office Supplies,0.446,0.474,0.008,0
+16431,Furniture,0.447,0.422,0.001,1
+10011,Furniture,0.582,0.459,0.0,0
+17623,Electronics,0.505,0.488,0.008,0
+4223,Office Supplies,0.492,0.456,0.0,0
+12841,Furniture,0.434,0.469,0.949,0
+17061,Electronics,0.479,0.485,0.0,0
+7889,Electronics,0.436,0.448,0.0,0
+15150,Furniture,0.529,0.494,0.003,0
+6862,Electronics,0.497,0.377,0.0,0
+12087,Furniture,0.376,0.308,0.0,0
+10938,Office Supplies,0.503,0.507,0.824,0
+13143,Furniture,0.49,0.476,0.0,0
+7366,Office Supplies,0.489,0.486,0.0,0
+5699,Electronics,0.422,0.469,0.0,0
+4010,Electronics,0.504,0.477,0.001,0
+9480,Appliances,0.557,0.437,0.0,0
+1062,Electronics,0.486,0.443,0.0,0
+6025,Furniture,0.405,0.403,0.0,0
+5273,Electronics,0.408,0.489,0.0,0
+5562,Furniture,0.588,0.481,0.0,0
+9174,Electronics,0.593,0.47,0.0,0
+9855,Electronics,0.511,0.473,0.0,0
+2228,Office Supplies,0.502,0.472,0.0,0
+13950,Office Supplies,0.519,0.304,0.0,0
+10667,Electronics,0.711,0.433,0.0,0
+597,Electronics,0.487,0.468,0.0,0
+16788,Furniture,0.464,0.406,0.0,0
+13023,Electronics,0.489,0.465,0.001,0
+12974,Furniture,0.582,0.508,0.0,0
+1228,Electronics,0.498,0.527,0.976,1
+11244,Office Supplies,0.437,0.438,0.001,0
+2903,Electronics,0.546,0.438,0.0,0
+15836,Office Supplies,0.515,0.499,0.913,0
+17656,Electronics,0.492,0.438,0.0,0
+3239,Furniture,0.452,0.476,0.011,0
+10487,Electronics,0.453,0.458,0.0,0
+3601,Furniture,0.465,0.45,0.0,0
+16653,Appliances,0.595,0.489,0.999,1
+9622,Appliances,0.51,0.441,0.0,0
+7145,Appliances,0.451,0.464,0.83,0
+708,Office Supplies,0.404,0.391,0.0,0
+17921,Appliances,0.579,0.458,0.995,0
+3522,Electronics,0.479,0.447,0.0,0
+18016,Electronics,0.581,0.518,0.066,0
+11219,Electronics,0.527,0.508,0.002,0
+17591,Electronics,0.547,0.287,0.001,1
+14317,Office Supplies,0.449,0.396,0.0,0
+12550,Electronics,0.567,0.509,1.0,0
+10335,Electronics,0.502,0.407,0.001,0
+11211,Electronics,0.497,0.495,0.011,0
+12928,Office Supplies,0.522,0.48,0.0,0
+10037,Office Supplies,0.505,0.491,0.0,0
+6550,Electronics,0.485,0.452,0.0,0
+4907,Furniture,0.515,0.489,0.0,0
+2387,Appliances,0.452,0.466,0.57,0
+9954,Furniture,0.51,0.414,0.013,0
+9712,Electronics,0.561,0.479,0.0,0
+14586,Electronics,0.478,0.46,0.0,0
+799,Electronics,0.559,0.486,0.0,0
+14713,Electronics,0.465,0.426,0.0,0
+13929,Office Supplies,0.512,0.366,0.0,0
+141,Electronics,0.296,0.439,0.0,0
+405,Office Supplies,0.581,0.507,0.029,0
+17683,Electronics,0.489,0.496,0.0,0
+9440,Office Supplies,0.303,0.378,0.003,0
+11579,Electronics,0.573,0.496,0.002,0
+4674,Office Supplies,0.511,0.468,0.0,0
+11400,Electronics,0.644,0.487,0.0,0
+4658,Electronics,0.5,0.393,0.0,0
+5822,Office Supplies,0.431,0.388,0.0,0
+4613,Electronics,0.491,0.467,0.0,0
+13598,Electronics,0.352,0.427,0.008,0
+6050,Electronics,0.469,0.368,0.0,0
+14622,Electronics,0.416,0.418,0.002,0
+3685,Office Supplies,0.493,0.388,0.0,0
+14959,Furniture,0.552,0.495,0.143,0
+8938,Appliances,0.414,0.415,0.611,0
+15876,Furniture,0.58,0.494,0.0,0
+15098,Electronics,0.462,0.469,0.065,0
+15254,Electronics,0.472,0.462,0.391,0
+6909,Office Supplies,0.53,0.468,0.0,0
+3568,Electronics,0.499,0.475,0.869,0
+4403,Office Supplies,0.556,0.492,0.0,0
+17269,Electronics,0.496,0.487,0.0,0
+15018,Electronics,0.47,0.494,0.101,0
+9416,Office Supplies,0.383,0.483,0.663,0
+9732,Electronics,0.473,0.44,0.001,0
+1752,Office Supplies,0.481,0.452,0.011,0
+2942,Furniture,0.534,0.46,0.0,1
+8495,Electronics,0.566,0.482,0.011,0
+12938,Electronics,0.562,0.511,0.98,0
+12769,Electronics,0.567,0.509,0.008,0
+3861,Electronics,0.547,0.499,0.005,0
+11780,Electronics,0.501,0.5,0.0,0
+15643,Furniture,0.627,0.467,0.035,0
+5017,Electronics,0.492,0.493,0.536,0
+3872,Electronics,0.581,0.43,0.198,0
+2411,Furniture,0.534,0.439,0.095,0
+14778,Electronics,0.424,0.427,0.002,0
+1402,Electronics,0.389,0.39,0.0,0
+9352,Electronics,0.625,0.535,0.01,0
+9847,Electronics,0.463,0.434,0.0,0
+5368,Electronics,0.417,0.327,0.0,0
+10798,Electronics,0.533,0.49,0.035,0
+9901,Electronics,0.51,0.494,0.988,0
+16898,Electronics,0.543,0.435,0.0,0
+14913,Office Supplies,0.493,0.415,0.182,0
+17863,Office Supplies,0.476,0.49,0.0,0
+7063,Office Supplies,0.573,0.359,0.0,1
+4068,Electronics,0.627,0.459,0.0,0
+5981,Electronics,0.494,0.489,0.0,0
+7410,Electronics,0.362,0.417,0.0,1
+3657,Furniture,0.529,0.481,0.0,0
+9690,Office Supplies,0.474,0.481,0.732,0
+9077,Appliances,0.58,0.436,0.001,0
+11465,Office Supplies,0.478,0.487,0.036,0
+17571,Office Supplies,0.46,0.494,0.001,1
+788,Electronics,0.488,0.502,0.468,0
+10604,Furniture,0.397,0.394,0.0,0
+9333,Electronics,0.512,0.444,0.028,0
+11662,Electronics,0.48,0.474,0.822,0
+16241,Appliances,0.505,0.422,0.0,1
+4142,Electronics,0.444,0.422,0.001,1
+7929,Electronics,0.407,0.432,0.0,1
+16183,Office Supplies,0.422,0.444,0.013,0
+14950,Furniture,0.488,0.408,0.0,0
+8471,Appliances,0.494,0.467,0.0,1
+10816,Electronics,0.56,0.481,0.008,0
+11100,Furniture,0.508,0.429,0.0,0
+8168,Office Supplies,0.467,0.378,0.0,0
+17631,Furniture,0.364,0.355,0.0,0
+14270,Office Supplies,0.524,0.513,0.0,0
+14561,Office Supplies,0.483,0.474,0.009,0
+14148,Electronics,0.465,0.418,0.205,0
+7841,Electronics,0.559,0.493,0.0,0
+3045,Electronics,0.342,0.379,0.086,1
+8802,Electronics,0.535,0.498,0.0,1
+2370,Electronics,0.481,0.409,0.001,0
+11976,Office Supplies,0.407,0.318,0.0,0
+1357,Appliances,0.518,0.468,0.0,0
+4708,Appliances,0.607,0.417,0.0,0
+12021,Electronics,0.465,0.422,0.0,0
+2116,Electronics,0.458,0.483,0.0,0
+7793,Office Supplies,0.532,0.441,0.0,0
+17892,Appliances,0.591,0.46,0.0,0
+764,Office Supplies,0.504,0.417,0.009,0
+7348,Electronics,0.503,0.483,0.0,0
+4779,Electronics,0.503,0.499,0.0,0
+8925,Electronics,0.465,0.44,0.0,0
+8188,Office Supplies,0.503,0.414,0.0,0
+10104,Appliances,0.542,0.439,0.297,0
+15996,Office Supplies,0.402,0.31,0.181,0
+15129,Electronics,0.472,0.447,0.0,0
+4926,Electronics,0.495,0.43,0.007,0
+6285,Electronics,0.507,0.503,0.003,0
+6422,Furniture,0.534,0.47,0.0,0
+3052,Appliances,0.526,0.484,0.0,0
+78,Office Supplies,0.361,0.325,0.0,0
+2638,Furniture,0.409,0.403,0.017,0
+8133,Electronics,0.309,0.202,0.0,0
+5639,Electronics,0.556,0.528,0.003,0
+4964,Electronics,0.421,0.455,0.0,0
+2323,Electronics,0.616,0.476,0.0,0
+5622,Electronics,0.486,0.447,0.404,0
+7497,Electronics,0.477,0.361,0.0,1
+17564,Electronics,0.504,0.442,0.0,0
+15727,Electronics,0.534,0.496,0.622,0
+5027,Electronics,0.333,0.383,0.002,1
+7548,Office Supplies,0.378,0.299,0.0,0
+14245,Office Supplies,0.405,0.412,0.0,0
+17678,Electronics,0.53,0.478,0.054,0
+16027,Furniture,0.563,0.471,0.007,1
+10615,Electronics,0.444,0.494,0.079,0
+2294,Office Supplies,0.519,0.528,0.001,0
+12578,Electronics,0.453,0.524,0.969,0
+16714,Furniture,0.482,0.375,0.0,0
+5955,Furniture,0.582,0.516,0.093,0
+1192,Office Supplies,0.462,0.399,0.033,0
+9852,Electronics,0.529,0.405,0.0,0
+15375,Electronics,0.538,0.504,0.003,0
+5730,Office Supplies,0.478,0.505,0.17,1
+6721,Electronics,0.541,0.512,0.0,1
+10284,Furniture,0.539,0.461,0.0,0
+12915,Electronics,0.497,0.467,0.046,0
+17322,Furniture,0.552,0.476,0.0,0
+570,Office Supplies,0.473,0.432,0.0,0
+1940,Electronics,0.47,0.512,0.972,0
+4809,Office Supplies,0.427,0.389,0.0,0
+8005,Electronics,0.403,0.372,0.071,0
+4714,Electronics,0.568,0.437,0.0,0
+6824,Office Supplies,0.475,0.441,0.0,0
+12155,Office Supplies,0.381,0.354,0.006,0
+9165,Electronics,0.525,0.458,0.0,0
+7940,Office Supplies,0.378,0.434,0.0,0
+7831,Furniture,0.535,0.498,0.015,0
+1699,Office Supplies,0.47,0.397,0.0,0
+3254,Furniture,0.558,0.501,0.934,0
+10947,Electronics,0.514,0.457,0.0,0
+13956,Electronics,0.458,0.481,0.007,1
+14535,Office Supplies,0.486,0.362,0.0,0
+15564,Appliances,0.553,0.47,0.0,0
+17327,Electronics,0.508,0.505,0.0,0
+3437,Electronics,0.504,0.499,0.067,0
+704,Furniture,0.493,0.48,0.0,0
+14669,Electronics,0.513,0.511,0.0,0
+13083,Furniture,0.321,0.467,0.0,0
+8795,Electronics,0.521,0.504,0.011,0
+7819,Electronics,0.51,0.531,0.01,0
+9769,Electronics,0.607,0.507,0.001,0
+10156,Appliances,0.466,0.421,0.0,0
+16007,Electronics,0.506,0.471,0.0,0
+16414,Office Supplies,0.508,0.391,0.0,0
+8370,Appliances,0.505,0.455,0.0,0
+5464,Electronics,0.593,0.469,0.0,0
+16437,Office Supplies,0.523,0.458,0.0,0
+5559,Office Supplies,0.41,0.396,0.0,0
+15006,Appliances,0.585,0.464,0.001,0
+1551,Furniture,0.496,0.499,0.056,0
+14088,Office Supplies,0.47,0.451,0.007,0
+9787,Office Supplies,0.489,0.436,0.0,1
+7637,Electronics,0.508,0.513,0.947,0
+8958,Electronics,0.492,0.473,0.008,0
+4173,Electronics,0.577,0.472,0.0,0
+9006,Furniture,0.419,0.438,0.0,0
+7580,Electronics,0.51,0.506,0.0,0
+17696,Office Supplies,0.483,0.49,0.836,0
+3794,Appliances,0.575,0.454,0.0,1
+17356,Furniture,0.512,0.474,0.0,0
+4222,Furniture,0.382,0.393,0.0,0
+4251,Appliances,0.571,0.475,0.0,0
+10792,Electronics,0.505,0.445,0.924,0
+948,Office Supplies,0.484,0.491,0.469,0
+1031,Electronics,0.565,0.51,0.96,0
+6935,Electronics,0.457,0.497,0.002,0
+910,Electronics,0.365,0.254,0.0,0
+12272,Office Supplies,0.484,0.429,0.0,0
+2897,Electronics,0.485,0.451,0.0,0
+14278,Electronics,0.376,0.4,0.0,0
+9768,Furniture,0.475,0.413,0.0,0
+13560,Furniture,0.45,0.467,0.057,0
+4526,Furniture,0.54,0.49,0.0,0
+3292,Appliances,0.547,0.46,0.865,0
+9107,Office Supplies,0.544,0.486,0.064,0
+4999,Electronics,0.499,0.409,0.001,0
+6911,Furniture,0.53,0.441,0.002,0
+15344,Electronics,0.443,0.512,0.027,0
+1767,Furniture,0.36,0.304,0.0,0
+2221,Furniture,0.472,0.43,0.0,0
+9667,Electronics,0.531,0.504,0.004,1
+14599,Appliances,0.598,0.512,0.0,0
+13500,Furniture,0.522,0.405,0.039,1
+4931,Electronics,0.598,0.406,0.0,1
+17806,Electronics,0.444,0.479,0.0,0
+2204,Office Supplies,0.485,0.457,0.942,0
+14863,Electronics,0.399,0.415,0.0,0
+11217,Appliances,0.507,0.493,0.0,0
+13282,Appliances,0.565,0.496,0.137,0
+449,Furniture,0.384,0.336,0.0,0
+1718,Furniture,0.484,0.342,0.0,0
+7421,Electronics,0.52,0.488,0.0,0
+13526,Furniture,0.541,0.433,0.0,0
+12796,Electronics,0.56,0.487,0.118,0
+4070,Office Supplies,0.477,0.502,0.0,0
+10132,Office Supplies,0.53,0.409,0.0,0
+6585,Office Supplies,0.479,0.46,1.0,0
+17726,Electronics,0.557,0.519,0.061,0
+779,Office Supplies,0.615,0.333,0.121,0
+13786,Electronics,0.477,0.473,0.046,0
+5748,Office Supplies,0.455,0.417,0.0,0
+5758,Electronics,0.523,0.48,0.0,0
+2780,Electronics,0.604,0.488,0.0,0
+9906,Appliances,0.374,0.386,0.0,0
+136,Electronics,0.458,0.483,1.0,0
+1303,Electronics,0.386,0.347,0.0,0
+11581,Electronics,0.437,0.389,0.022,0
+13180,Electronics,0.565,0.507,0.0,0
+12677,Electronics,0.358,0.273,0.0,0
+3999,Electronics,0.479,0.486,0.822,0
+4026,Electronics,0.559,0.432,0.007,0
+1703,Electronics,0.5,0.485,0.029,0
+1900,Electronics,0.609,0.498,0.0,0
+1686,Furniture,0.47,0.447,0.004,1
+16128,Furniture,0.455,0.438,0.003,0
+5527,Office Supplies,0.448,0.445,0.624,0
+6366,Furniture,0.44,0.445,0.021,0
+7409,Furniture,0.458,0.408,0.0,0
+7429,Electronics,0.504,0.443,0.003,0
+4956,Electronics,0.595,0.388,0.998,0
+1087,Electronics,0.394,0.41,0.0,0
+15142,Electronics,0.501,0.429,0.006,0
+3258,Appliances,0.616,0.437,0.0,0
+15491,Electronics,0.587,0.484,0.0,0
+2384,Electronics,0.465,0.448,0.192,0
+16251,Office Supplies,0.428,0.405,0.0,0
+15468,Appliances,0.485,0.503,0.213,0
+17452,Office Supplies,0.696,0.519,0.0,0
+3325,Electronics,0.387,0.398,0.044,0
+1107,Electronics,0.405,0.402,0.98,0
+10730,Office Supplies,0.557,0.508,0.271,0
+5523,Office Supplies,0.442,0.459,0.0,0
+17853,Furniture,0.445,0.437,0.0,0
+7799,Electronics,0.544,0.483,0.0,0
+13000,Electronics,0.505,0.455,0.0,0
+16998,Electronics,0.415,0.336,0.0,0
+9934,Appliances,0.587,0.46,0.06,0
+9607,Appliances,0.652,0.504,0.001,0
+3692,Office Supplies,0.553,0.483,0.0,0
+15771,Electronics,0.51,0.503,0.173,0
+13738,Office Supplies,0.412,0.354,0.0,0
+11007,Office Supplies,0.495,0.51,0.0,1
+17941,Electronics,0.599,0.506,0.04,0
+159,Electronics,0.478,0.511,0.0,0
+2208,Office Supplies,0.442,0.389,0.0,0
+16733,Furniture,0.365,0.362,0.0,0
+6755,Furniture,0.522,0.506,0.0,0
+15479,Electronics,0.386,0.457,0.0,1
+7219,Office Supplies,0.588,0.459,0.717,0
+13178,Electronics,0.458,0.455,0.0,0
+9196,Electronics,0.322,0.457,0.662,0
+12109,Electronics,0.428,0.453,0.0,1
+3862,Office Supplies,0.396,0.288,0.0,0
+2305,Electronics,0.534,0.472,0.0,0
+12343,Furniture,0.511,0.477,0.002,0
+5851,Appliances,0.376,0.4,0.0,0
+3056,Electronics,0.521,0.482,0.0,0
+4750,Furniture,0.535,0.454,0.004,0
+14988,Electronics,0.51,0.438,0.01,0
+16384,Furniture,0.596,0.513,0.0,0
+11697,Office Supplies,0.403,0.352,0.0,0
+11055,Office Supplies,0.547,0.322,0.0,0
+2540,Electronics,0.508,0.491,0.001,0

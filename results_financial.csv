@@ -1,0 +1,10 @@
+Model,Flag top %,Profit at risk captured,Random flagging (mean),Random 95% band,Beats random?
+Logistic Regression,10,1713.26,1964.64861,"[581, 4,424]",False
+Logistic Regression,20,2412.69,3858.82333,"[1,673, 6,706]",False
+Logistic Regression,30,5495.280000000001,5787.55353,"[3,392, 8,989]",False
+Random Forest,10,608.34,1964.64861,"[581, 4,424]",False
+Random Forest,20,1720.8900000000003,3858.82333,"[1,673, 6,706]",False
+Random Forest,30,3482.21,5787.55353,"[3,392, 8,989]",False
+Neural Network (MLP),10,1245.95,1964.64861,"[581, 4,424]",False
+Neural Network (MLP),20,2459.83,3858.82333,"[1,673, 6,706]",False
+Neural Network (MLP),30,3905.42,5787.55353,"[3,392, 8,989]",False
